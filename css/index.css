@@ -29,9 +29,8 @@ body, html {
 
  /* The sidebar menu */ 
 .side-nav {
-  display: none;
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 250px; /* Set the width of the sidebar */
+  width: 200px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -91,7 +90,8 @@ body, html {
 
 /* Style page content */
 .container {
-  margin: 0px 250px 0px 10px; /* Same as the width of the sidebar */
+  /* margin-left: 250px; */
+  margin: 0px 10px 0px 200px; 
   padding: 0px 10px;
 }
 
@@ -99,7 +99,6 @@ body, html {
 @media screen and (max-height: 450px) {
   .side-nav {padding-top: 15px;}
   .side-nav a {font-size: 12px;}
-  .side-nav {width: 150px;} /* Set the width of the sidebar */
-
-  .container {margin: 0px 150px 0px 10px}; /* Same as the width of the sidebar */
+  .side-nav {width: 150px;} 
+  .container {margin: 0px 150px 0px 10px}; 
 } 
