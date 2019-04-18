@@ -30,11 +30,12 @@ body, html {
  /* The sidebar menu */ 
 .side-nav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 200px; /* Set the width of the sidebar */
+  width: 250px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
-  left: 0;
+  left: auto;
+  right: 0;
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 50px;
@@ -91,7 +92,7 @@ body, html {
 /* Style page content */
 .container {
   /* margin-left: 250px; */
-  margin: 0px 10px 0px 200px; 
+  margin: 0px 10px 0px 250px; 
   padding: 0px 10px;
 }
 
@@ -112,7 +113,7 @@ body, html {
   border: 1px solid black;
   padding: 5px 5px 8px 5px;
   top: 10px;
-  left: 10px;
+  right: 10px;
   z-index: 2; 
 }
 
@@ -125,7 +126,7 @@ body, html {
 }
 
 @media screen and (max-width: 800px) {
-  .container {margin: 0px 150px 0px 10px}; 
+  .container {margin: 0px 10px 0px 10px}; 
 } 
 
 @media screen and (min-width: 800px) {
@@ -134,9 +135,12 @@ body, html {
   }
   [type="checkbox"]:not(:checked) ~ .side-nav {
       display: initial;
+      left: 0px;
+      right: auto;
+      padding-top: 25px;
   }
   [type="checkbox"]:checked ~ .side-nav {
-      display: none;
+      display: initial;
   }
   .side-nav {
     display: initial;
