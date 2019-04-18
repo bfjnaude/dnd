@@ -37,7 +37,7 @@ body, html {
   left: 0;
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+  padding-top: 50px;
 }
 
 /* The navigation menu links */
@@ -95,10 +95,54 @@ body, html {
   padding: 0px 10px;
 }
 
-/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-  .side-nav {padding-top: 15px;}
-  .side-nav a {font-size: 12px;}
-  .side-nav {width: 150px;} 
+.nav-checkbox {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  padding: 5px;
+  height: 25px;
+  width: 60px;
+  z-index: 2;
+}
+
+.label-box {
+  position: fixed; 
+  display:block;
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 5px 5px 8px 5px;
+  top: 10px;
+  left: 10px;
+  z-index: 2; 
+}
+
+[type="checkbox"] {
+  display: none;
+}
+
+[type="checkbox"]:not(:checked) ~ .side-nav {
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
   .container {margin: 0px 150px 0px 10px}; 
 } 
+
+@media screen and (min-width: 800px) {
+  .label-box {
+    display: none;
+  }
+  [type="checkbox"]:not(:checked) ~ .side-nav {
+      display: initial;
+  }
+  [type="checkbox"]:checked ~ .side-nav {
+      display: none;
+  }
+  .side-nav {
+    display: initial;
+  }
+} 
+
+.menu {
+    width: 30px;
+}

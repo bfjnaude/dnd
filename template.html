@@ -43,9 +43,15 @@ $for(header-includes)$
 $endfor$
 </head>
 <body >
-<div class="side-nav">
-  <nav id="$idprefix$TOC" role="doc-toc">
-  $table-of-contents$
+<div>
+</div>
+<input type="checkbox" class="nav-checkbox" id="nav-checkbox" className="box" />
+<label for="nav-checkbox" class="label-box">
+  <img src="img/ham.svg" alt="toggle menu" class="menu" id="menu" />
+</label>
+<div class="side-nav"> 
+  <nav id="$idprefix$TOC" role="doc-toc"> 
+    $table-of-contents$
   </nav>
 </div>
 <div class="hero-image">
