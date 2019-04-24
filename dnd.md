@@ -2,7 +2,14 @@
 Modified Princes of the Apocalypse starting at level 8. 
 
 ## Resources
+### Docs 
 * [Elemental Evil Players Companion (23 MB)](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
+
+### Maps 
+* <details>
+<summary>Dessarin Valley</summary>
+![The Dessarin Valley](img/Dessarin_Valley-5e.jpg)
+</details> 
 
 ## Characters 
     Coming soon 

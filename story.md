@@ -25,4 +25,4 @@ Cranorin's yearning for adventure lead him to accept a request from the Emerald 
 The characters seek shelter at a local in Westbridge after a storm starts to kick up...
 
 Inkeeper: Darius 
-Stout dark haired human man, taned skin hairy chest and forearms, mutton chops.
+Stout dark haired human man, tanned skin, hairy chest & forearms, mutton chops.
