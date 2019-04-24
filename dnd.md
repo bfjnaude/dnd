@@ -71,4 +71,6 @@ During the storm Aerisi is flying around in the clouds summoning lightning and a
 
 The party takes down Aerisi and the elemental. Shava claims Windvane.
 
+Shava goes on an expidition to try and obtain some arrows while the rest of the party sleeps.
+
 </details> 
