@@ -22,7 +22,8 @@ Shava Illiai is on the hunt for rare ingredients needed for a potion for one of 
 
 Cranorin's yearning for adventure lead him to accept a request from the Emerald Enclave to investigate disturbances in natural balance along the Dessarin river near Stone Bridge. 
 
-The characters seek shelter at a local in Westbridge after a storm starts to kick up...
+The characters seek shelter at a local in Westbridge after a storm starts to kick up... 
 
-Inkeeper: Darius 
+Inkeeper of the Snoring Giant: Darius 
 Stout dark haired human man, tanned skin, hairy chest & forearms, mutton chops.
+
