@@ -147,6 +147,10 @@ body, html {
   }
 } 
 
+.img-map {
+  width: 100%;
+}
+
 .menu {
     width: 30px;
 }
