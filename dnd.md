@@ -1,6 +1,9 @@
 # Campaign 
 Modified Princes of the Apocalypse starting at level 8. 
 
+## Resources
+* [Elemental Evil Players Companion](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
+
 ## Characters 
     Coming soon 
 ### PCs 
