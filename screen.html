@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Screen</title>
+
+  <link rel="stylesheet" href="css/dnd.css" />
+  <link rel="stylesheet" href="./css/index.css" /> 
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="./dnd.html">
+                <h2> Back </h2>
+            </a>
+            <div>
+                <input type="text" id="address" placeholder="localhost"/>
+                <input type="button" value="Set address" id="set-address"/>
+            </div>
+        <div>
+    </header>
+    <div class="container">
+        <div>
+            <img class="img-screen" id="screen" src='' alt="enter an address">
+        </div>
+    </div>
+    <script language='javascript'> 
+        var screen = document.getElementById("screen")
+        function imageRefresh() {
+            var d = new Date;
+            var http = screen.src;
+            if (http.indexOf("&d=") != -1) { http = http.split("&d=")[0]; } 
+    
+            screen.src = http + '&d=' + d.getTime();
+            console.log(screen.src)
+        }
+
+        function clickSetAddress() { 
+            var address = document.getElementById("address") 
+            var screen = document.getElementById("screen") 
+            screen.setAttribute("src", 'http://' + address.value + ':5000/screen.jpg?') 
+        } 
+
+        var idButton = document.getElementById("set-address")
+        idButton.addEventListener('click', clickSetAddress)
+
+        setInterval(imageRefresh, 2000);
+    </script>
+</body>
+</html>

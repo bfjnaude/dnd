@@ -148,6 +148,10 @@ body, html {
   }
 } 
 
+.img-screen {
+  width: 100%;
+}
+
 .img-map {
   width: 100%;
 }
@@ -171,4 +175,4 @@ details[open] summary ~ :not(img) {
   0%    {opacity: 0; margin-left: -50px}
   80%   {opacity: 0.9; margin-left: 10px}
   100%  {opacity: 1; margin-left: 0px}
-}
+} 

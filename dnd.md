@@ -6,6 +6,7 @@ Modified Princes of the Apocalypse starting at level 8.
 * [Elemental Evil Players Companion PDF (23 MB)](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
 
 ### Maps 
+<a href="./screen.html">Goto live screen<a>
 <details>
     <summary>Dessarin Valley</summary>
     <img class="lazy img-map" src="img/Dessarin_Valley-5e_low.jpg" data-src="img/Dessarin_Valley-5e.jpg"/>
@@ -71,5 +72,7 @@ During the storm Aerisi is flying around in the clouds summoning lightning and a
 
 The party takes down Aerisi and the elemental. Shava claims Windvane. (4800 XP)
 
-Shava goes on an expidition to try and obtain some arrows while the rest of the party sleeps. 
+Shava goes on an expidition to try and obtain some arrows while the rest of the party sleeps. She finds the local workshop,
+but is not able to obtain any completed arrows. 
+
 </details> 
