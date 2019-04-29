@@ -28,3 +28,24 @@ Aerisi
 16 AC
 70, 44, 32, 9 HP 
 
+
+###
+
+The party spends the day treking into the Sumber Hills. By the late afternoon they are ready to start making camp when they spot 
+fiery streaks running down from the sky, like a waterfall, just over the next hill.
+
+If they investigate they find two Fire Elemental Myrmidons posted outside the Scarlett Moon Hall.
+
+Fire Elemental Myrmidons
+
+25 
+20 
+15 
+10
+5
+
+Elemental #1 (18AC)
+125 HP
+
+Elemental #2 (18AC)
+125 HP
