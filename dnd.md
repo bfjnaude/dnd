@@ -76,3 +76,30 @@ Shava goes on an expidition to try and obtain some arrows while the rest of the 
 but is not able to obtain any completed arrows. 
 
 </details> 
+
+### Wed 1 May 2019
+<details>
+<summary> Second session: Bonfire in the valley</summary> 
+
+#### 2nd of Kythorn 1453 
+The party makes their way down The Stone Trail. After a day of travelling they decide to set up camp at the foot of the Sumber Hills 
+near River Dessarin. They spot fire raining down from the sky deeper into the Sumber Hills and want to investigate.
+
+Elliania uses divination to surmise the nature of the fire that rained from the sky and receives the answer "Unnatural. Do not trust them"
+
+The party sees smoke further into the Sumber hills as the sun sets. They deiced they need to investigate in the morning. 
+
+#### 3rd of Kythorn 1453 
+The party breaks camp and decides to head in the direction of the smoke they saw on the previous day. 
+
+On their approach they spot a tower on a hill, in the area where the smoke originated. 
+Two party members decide to sneak closer to investigate. When they spot a burned out camp and two fire elementals patrolling the area. 
+
+The party attacks the Fire Elemental Myrmidons patrolling at the foot of the Scarlet Moon Hall. After defeating the elementals,
+the party starts to raid the camp as they explore. They find many burnt corpses, some scrolls and a few gold coins.
+
+While exploring the summit of the hill the party encounters a Flame Guardian and two Hell Hounds.
+
+During the fighting the Flame Guardian submits.
+
+</details> 
