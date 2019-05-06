@@ -11,6 +11,10 @@ Modified Princes of the Apocalypse starting at level 8.
     <summary>Dessarin Valley</summary>
     <img class="lazy img-map" src="img/Dessarin_Valley-5e_low.jpg" data-src="img/Dessarin_Valley-5e.jpg"/>
 </details> 
+<details>
+    <summary>Scarlet Moon Hall</summary>
+    <img class="lazy img-map" src="img/scarlet-moon-hall-dm_low.jpg" data-src="img/scarlet-moon-hall-dm.jpg"/>
+</details> 
 
 ## Characters 
 
@@ -87,7 +91,7 @@ near River Dessarin. They spot fire raining down from the sky deeper into the Su
 
 Elliania uses divination to surmise the nature of the fire that rained from the sky and receives the answer "Unnatural. Do not trust them"
 
-The party sees smoke further into the Sumber hills as the sun sets. They deiced they need to investigate in the morning. 
+The party sees smoke further into the Sumber hills as the sun sets. They decide they need to investigate in the morning. 
 
 #### 3rd of Kythorn 1453 
 The party breaks camp and decides to head in the direction of the smoke they saw on the previous day. 
