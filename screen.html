@@ -8,21 +8,19 @@
   <link rel="stylesheet" href="css/dnd.css" />
   <link rel="stylesheet" href="./css/index.css" /> 
 </head>
-<body>
-    <header>
-        <div class="container">
+<body class="body-black">
+    <div class="container-fluid"> 
+        <header class="header-gray">
             <a href="./dnd.html">
                 <h2> Back </h2>
             </a>
+            <input type="text" id="address" placeholder="localhost"/>
+            <input type="button" value="Set address" id="set-address"/>
+        </header>
+        <div class="body-black">
             <div>
-                <input type="text" id="address" placeholder="localhost"/>
-                <input type="button" value="Set address" id="set-address"/>
+                <img class="img-screen" id="screen" src='' alt="enter an address">
             </div>
-        <div>
-    </header>
-    <div class="container">
-        <div>
-            <img class="img-screen" id="screen" src='' alt="enter an address">
         </div>
     </div>
     <script language='javascript'> 

@@ -148,8 +148,21 @@ body, html {
   }
 } 
 
+.body-black {
+  background-color: black;
+}
+
+.header-gray {
+  background-color: #555;
+  padding: 5px;
+  display: inline-flexbox;
+}
+
 .img-screen {
-  width: 100%;
+  margin: 2%;
+  max-width: 96%; 
+  max-height: 85vh;
+  color: lightgrey;
 }
 
 .img-map {
