@@ -122,4 +122,6 @@ During the battle an unknown druid escapes at the base of the tower...
 The party loots the druids living quarters for some gold, gems and a scroll, before fighting some giant bats in the attic, 
 after a failed attempt at animal diplomacy.
 
+The party opts to take a short rest in the top of the tower.
+
 </details> 
