@@ -63,12 +63,57 @@ Elemental #2 (18AC)
 7 Shava
 3 Crane, Hound 
 
-
-Eternal Flame Guardian 17AC 1
+Eternal Flame Guardian 17AC 1 450XP
 50, 41, 28, 22,  HP
 
-Hell hound 2 AC 15
+Hell hound 2 AC 15 700 XP
 45, 29, 26, 0 HP
 
-Hell hound 3 AC 15
+Hell hound 3 AC 15 700 XP
 45, 35, 30 HP
+
+### Tower encouter scarlet moon hall tower encounter 
+
+22 Elizar
+21 Smoke mephits
+19 Eternal flame priest
+17 Eliannia
+16 Crain
+13 Ice Mephits, Shava
+11 Coldor
+7 Eternal flame guardians
+
+Guardian 450 XP
+AC 17 45, 39, 38, 36, 34, 33, 7, 5, 2, 0 HP
+AC 17 45, 44, 43, 42, 36, 32, 23, 15, 7,0 0 HP
+
+AC 17 45, 40, 37 HP
+AC 17 45, 34, 23, 9, 0 HP
+
+Priest 700 XP 
+AC 12 52 40 36, 24, 8 HP
+
+Elizar 1800 XP
+AC 14 71 68 57 HP
+
+Smoke Mephits dispelled
+AC 12 22 HP
+AC 12 22 HP
+AC 12 22 HP
+AC 12 22 HP
+AC 12 22 HP
+
+
+### Gaint Bats in the attic
+
+21 Bats
+20 Coldor 
+9 Shava
+6 Elliannia
+5 Crain
+
+Giant Bats 50XP
+AC 13 22 14 8 0 HP
+AC 13 22 4 0 HP
+AC 13 22 9 0 HP
+AC 13 22 0 HP

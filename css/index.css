@@ -161,7 +161,7 @@ body, html {
 .img-screen {
   margin: 2%;
   max-width: 96%; 
-  max-height: 85vh;
+  max-height: 100vh;
   color: lightgrey;
 }
 

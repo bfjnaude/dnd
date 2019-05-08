@@ -107,3 +107,19 @@ While exploring the summit of the hill the party encounters a Flame Guardian and
 During the fighting the Flame Guardian submits.
 
 </details> 
+
+### Wed 9 May 2019
+<details>
+<summary> Second session: Scalet Moon Hall Tower</summary> 
+
+#### 3rd of Kythorn 1453 
+During the fighting the Flame Guardian submits... and promptly gets skewered by two crossbow bolts. The party takes cover next to the
+Scarlet Moon Hall tower. The scaffolding is set alight by a dropped oil lamp. Coldor summons Ice Mephits to douse the 
+flames and a battle ensues with the flame cultists residing in the tower.
+
+During the battle an unknown druid escapes at the base of the tower... 
+
+The party loots the druids living quarters for some gold, gems and a scroll, before fighting some giant bats in the attic, 
+after a failed attempt at animal diplomacy.
+
+</details> 
