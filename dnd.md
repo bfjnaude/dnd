@@ -34,6 +34,14 @@ Tells the party about strange happenings in the valley.
 
 </details>
 
+<details>
+<summary>Bastion</summary>
+
+Fire genasi in the Fire Cult's dungeon. Has some ambition to depose Vanifer.
+Asked the party to kill Vanifer and bring him their dagger for a hefty sum.
+
+</details>
+
 ## Items
 
 <details><summary>Windvane</summary>
@@ -123,5 +131,26 @@ The party loots the druids living quarters for some gold, gems and a scroll, bef
 after a failed attempt at animal diplomacy.
 
 The party opts to take a short rest in the top of the tower.
+
+</details> 
+
+### Wed 15 May 2019
+<details>
+<summary> Third session: Scalet Moon Hall Tower Pt.2</summary> 
+
+#### 3rd of Kythorn 1453 
+The party opts to take a short rest in the top of the tower...
+
+The party descends the tower and has an encounter with some magmins and proceed down a hidden tunnel.
+
+Following the tunnel leads the party to a chamber underground. Elliania finds a secret door in one of
+the tunnels. On the other side of the secret door the party finds a Fire Genasi named Bastion, who convinces
+them to go find and kill Vanifer to bring him her dagger...
+
+The party agrees to go and find Vanifer.
+
+After following Bastion's instructions the party finds Vanifer praying at an altar, with a corpse atop it.
+
+A failed stealth attempt leads to a large battle with Vanifer and her fire Elementals. Vanifer escapes...
 
 </details> 

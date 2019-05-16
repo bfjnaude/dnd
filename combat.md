@@ -117,3 +117,36 @@ AC 13 22 14 8 0 HP
 AC 13 22 4 0 HP
 AC 13 22 9 0 HP
 AC 13 22 0 HP
+
+### Magmins
+4 Magmins H6 of the Scarlet Moon Hall p 71 (400XP)
+
+20 Coldor
+16 Crain
+14 Shava, Moonpie
+10 Magmins
+
+Magmin
+
+14 AC 9, 1 0 HP
+14 AC 9, 4, 0 HP
+14 AC 9, 1, 0 HP
+14 AC 9, 0 HP
+
+
+## Vanifer encounter
+
+22 Fire Elementals 
+21 Crain
+18 Shava
+17 Coldor
+15 Sprites
+7 Vanifer
+4 Moonpie
+
+Vanifer 15 AC 112, 91, 90, 89, 88, 87, 86, 75, 70, 58, 52, 38 HP
+Fire Elemental 1 13 AC 102, 96, 92, 86, 68, 51, 12, 1 HP
+Fire Elemental 2 13 AC 102, 96, 89, 70, 41, 35, 34, 30, 0 HP
+
+
+
