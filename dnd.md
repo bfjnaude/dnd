@@ -57,7 +57,31 @@ Air Mastery. You gain the following benefit while you hold Windvane:
 * You can speak Auran fluently.
 * You have resistance to lightning damage.
 * You can cast dominate monster (save DC 17) on an air elemental. Once you have done so, Windvane can’t be used in this way agin until the next dawn.
-</details>
+
+</details> 
+
+<details><summary>Tinderstrike</summary>
+
+A flint dagger, Tinderstrike is uncommonly sharp, and sparks cascade off its edge whenever it strikes something solid. Its handle is always warm to the touch, and the blade smolders for 1d4 minutes after it is used to deal damage. It contains a spark of Imix, Prince of Evil Fire.
+
+You gain a +2 bonus to attack and damage rolls you make with this magic weapon. When you hit with it, the targets takes an extra 2d6 fire damage.
+
+Fire Mastery. You gain the following benefits while you hold Tinderstrike:
+
+* You can speak Ignan fluently.
+* You have resistance to Fire damage.
+* You can cast Dominate Monster (Save DC 17) on a Fire Elemental. Once you have done so, Tinderstrike can’t be used this way again until the next dawn.
+
+This weapon is tied to one of the four Elemental Planes. While wielding this weapon, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.
+
+If you help slay a fire elemental while attuned to the weapon, you gain access to the following additional properties:
+
+* You are immune to fire damage.
+* You can cast the following spells from the dagger, expending the necessary number of charges: burning hands (1 charge), fireball (2 charges), or wall of fire (3 charges).
+
+After helping to slay a fire elemental, the Weapon has 5 charges. It regains 1d4 = 1 expended charges daily at dawn. Spells cast from the weapon have a save DC of 17.
+
+</details> 
 
 ## Campaign Logs
 ### Wed 17 Apr 2019 
@@ -136,7 +160,7 @@ The party opts to take a short rest in the top of the tower.
 
 ### Wed 15 May 2019
 <details>
-<summary> Third session: Scalet Moon Hall Tower Pt.2</summary> 
+<summary> Third session: Scalet Moon Hall Tower Pt.2, into the fire temple</summary> 
 
 #### 3rd of Kythorn 1453 
 The party opts to take a short rest in the top of the tower...
@@ -152,5 +176,21 @@ The party agrees to go and find Vanifer.
 After following Bastion's instructions the party finds Vanifer praying at an altar, with a corpse atop it.
 
 A failed stealth attempt leads to a large battle with Vanifer and her fire Elementals. Vanifer escapes...
+
+</details> 
+
+### Wed 22 May 2019
+<details>
+<summary> Fourth session: Inside Vanifers chamber</summary> 
+
+#### 3rd of Kythorn 1453 
+The party hunts for Vanifer and after searching the altar chamber find the secret door down to Vanifer's chambers.
+
+Vanifer makes her last stand. The party seizes Tinderstrike after Vanifer's body goes up in smoke. 
+
+Vanifer's chamber is barricaded as the group tries to take a long rest.
+
+After their long rest a fight breaks out when the party tries to sneak past a group of sleeping cultist. A fight breaks out,
+many people die... also hobgoblins. A mage, named Lizzy manages to escape.
 
 </details> 

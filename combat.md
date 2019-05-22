@@ -148,5 +148,38 @@ Vanifer 15 AC 112, 91, 90, 89, 88, 87, 86, 75, 70, 58, 52, 38 HP
 Fire Elemental 1 13 AC 102, 96, 92, 86, 68, 51, 12, 1 HP
 Fire Elemental 2 13 AC 102, 96, 89, 70, 41, 35, 34, 30, 0 HP
 
+## Vanifer encounter 2
+
+21 Vanifer
+17 Moonpie
+14 Shava
+8 Bearclaw
+7 Coldor
+6 Zombie
+
+Vanifer 15 AC  38, 32, 23,  HP
 
 
+## Cult fanatics
+
+Cultist x 8 25xp
+
+Cult fanatics 450 XP
+AC 13, 33, 7, 0 HP
+AC 13, 33, 23, 0 HP
+
+Magmins 100 XP
+AC 14, 9 HP
+AC 14, 9 HP
+AC 14, 9 HP
+AC 14, 9 HP
+
+Mage 2300 XP
+AC 12, HP 40, 33
+
+Hobgoblins 100XP
+
+18 AC 11 HP
+18 AC 11 HP
+18 AC 11 HP
+18 AC 11 HP
