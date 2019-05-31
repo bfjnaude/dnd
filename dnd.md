@@ -4,6 +4,7 @@ Modified Princes of the Apocalypse starting at level 8.
 ## Resources
 ### Docs 
 * [Elemental Evil Players Companion PDF (23 MB)](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
+* [Elf Lore from Mordenkainen's Tomb Of Foes (12 MB)](https://s3-eu-west-1.amazonaws.com/dnd.bfjnaude.com/files/Elves.pdf)
 
 ### Maps 
 <a href="./screen.html">Goto live screen<a>
@@ -190,6 +191,7 @@ Vanifer makes her last stand. The party seizes Tinderstrike after Vanifer's body
 
 Vanifer's chamber is barricaded as the group tries to take a long rest.
 
+#### 4th of Kythorn 1453
 After their long rest a fight breaks out when the party tries to sneak past a group of sleeping cultist. A fight breaks out,
 many people die... also hobgoblins. A mage, named Lizzy manages to escape.
 
