@@ -196,3 +196,12 @@ After their long rest a fight breaks out when the party tries to sneak past a gr
 many people die... also hobgoblins. A mage, named Lizzy manages to escape.
 
 </details> 
+
+### June 5 May 2019
+<details>
+<summary> Fifth session: ...</summary> 
+
+#### 4th of Kythorn 1453
+The party goes on a murdering spree, killing all they found in the Fire Temple
+
+</details> 

@@ -183,3 +183,74 @@ Hobgoblins 100XP
 18 AC 11 HP
 18 AC 11 HP
 18 AC 11 HP
+
+## More hobgoblins 1100XP
+
+23 Coldor
+18 Shava
+
+14 Wolves
+12 Captain
+9 Moonpie
+8 Crain
+7 Hobgoblins
+
+6 Zombies 
+
+
+18 AC 11 HP
+18 AC 11 HP
+18 AC 11 HP
+18 AC 11 HP
+17 AC 39 HP
+
+## Flame Guardians 
+
+21 Wolves
+
+19 Coldor 
+
+13 Flame Guardians 
+
+14 Moonpie, Shava, Ogres
+
+9 Bearclaw
+
+-1 Zombies
+
+1800 XP
+
+17 AC 45, 24, 12, 0 HP
+17 AC 45, 18, 0 HP
+17 AC 45, 30, 24, 0 HP
+17 AC 45, 31, 25, 19, 0 HP
+
+900 XP
+
+11 AC 59, 42, 26, 15, 0 HP
+11 AC 59, 52, 41, 28, 0 HP
+
+## Hob goblins dungeons
+
+21 Hobgoblins
+20 Coldor
+
+17 Wolves
+16 Shava
+
+
+9 Moonpie
+6 Captain
+5 Zombies
+3 Bearclaw
+
+
+1300 XP
+
+18 AC 11, 0 HP
+18 AC 11, 0 HP
+18 AC 11, 0 HP
+18 AC 11, 0 HP
+18 AC 11, 0 HP
+
+17 AC 39, 11, 0  HP
