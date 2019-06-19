@@ -197,11 +197,29 @@ many people die... also hobgoblins. A mage, named Lizzy manages to escape.
 
 </details> 
 
-### June 5 May 2019
+### Wed 5 June 2019
 <details>
-<summary> Fifth session: ...</summary> 
+<summary> Fifth session: Murderings things </summary> 
 
 #### 4th of Kythorn 1453
 The party goes on a murdering spree, killing all they found in the Fire Temple
+
+</details> 
+
+### Wed 12 June 2019
+<details>
+<summary> Sixth session: Murdering things part II, electric boogaloo  </summary> 
+
+#### 4th of Kythorn 1453
+The gang goes exploring in the fire dungeon. They smooze their way pasts some razerblasts and avoid a tripwire trap 
+attached to a dwarven statue. 
+
+After furhter exploration they find some fire cultists bunking next to a small underground prison. The group methodically 
+clears the fire cultists from the area, after which they start freeing a group of salamanders and a group of azers.
+There is clear conflict between the two groups, but the party convinces them to band together to overthrow the local Efreeti
+slavedriver who was holding them captive.
+
+In their attempt to take down the Efreeti and his minions the salamanders and azers start attacking each other... 
+With their allies fighting each other, the Efreeti makes short work of the party. They are slain in the fire dungeon.
 
 </details> 

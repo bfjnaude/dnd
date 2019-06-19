@@ -254,3 +254,91 @@ Hobgoblins 100XP
 18 AC 11, 0 HP
 
 17 AC 39, 11, 0  HP
+
+## Razerblasts E2 p 107
+
+17 Shava
+13 Cranorin
+7 Moonpie
+6 Razerblasts
+3 Crain 
+
+Murdering random mobs
+450XP 
+Eternal flame guardian
+
+Flamewrath 
+2300 XP
+12 AC 105, 50, 16 0 HP
+
+23 Moonpie, Shava
+18 Flamewrath
+
+11 Coldor
+8 Bearclaw
+
+5 Zombies
+3 Wolves
+
+450XP 
+Eternal flame guardian
+AC 17, 45, 20, 0 HP
+
+22 Wolves
+19 Bearclaw, Shava
+18 Eternal guardian
+
+10 Moonpie
+6 Zombies
+3 Coldor
+
+Flamewrath 
+2300 XP
+12 AC 105, 60, 47, 22, 12, 0 HP
+
+
+22 Coldor
+16 Bearclaw
+19 Wolves
+15 Moonpie
+13 Shava 
+11 Zombies
+
+5 Flamewrath
+
+Efreeti encounter E13 p 106
+
+Efreeti 7200 XP
+17 AC 200, 187 170, 156 HP
+
+Razerblast 1800 XP
+17 AC 112, 99, 69, 48, 42, 0 HP
+
+Eternal Flame Guardian 450 XP
+17 AC 45, 18, 1 HP
+17 AC 45, 32 HP
+
+Azers 450 XP  
+17 AC 39, 22 HP         17 AC 39, 30 HP             17 AC 39 HP     
+17 AC 39, 0 HP             17 AC 39, 15 HP             17 AC 39 HP     
+17 AC 39  0 HP             17 AC 39, 0 HP             17 AC 39 HP
+
+Salamanders 
+15 AC 90, 80, 70, 50 HP
+15 AC 90, 80, 75 HP
+15 AC 90, 68, 62 48 40 31 HP
+15 AC 90, 70 HP
+15 AC 90, 84, 75 HP
+
+22 Moonpie
+19 Eternal flame guardian x 2
+17 Salamander x 1
+16 Wolves
+11 Azer x 6
+9 Azer x 1, Efreeti
+8 Salamander x 4
+7 Coldor
+5 Azer x 3,  Shava
+4 Crain 
+2 Razerblast
+1 Zombies 
