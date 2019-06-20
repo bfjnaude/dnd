@@ -342,3 +342,28 @@ Salamanders
 4 Crain 
 2 Razerblast
 1 Zombies 
+
+Prison break
+Tom and Jerry Eternal flame guardians 900 XP
+
+17 AC 45, 38, 26, 21, 17, 11, 0 HP Tom Cursed
+17 AC 45, 36, 29, 22, 7 HP Jerry Stunned
+
+16 Guards
+
+7 Yashira, Peren 
+
+3 Thorin, Moonpie
+
+Hell hounds in the prison escape 2800 XP
+
+0 15 AC 45, 40, 37, 14, 0 HP
+1 15 AC 45, 35, 32, 10, 0 HP
+2 15 AC 45, 41, 26, 22, 2 HP
+3 15 AC 45, 40, 36, 21, 20, 2, 0 HP
+
+20 Peren
+12 Thorin
+10 Moonpie
+8 Hell hounds
+7 Yashera
