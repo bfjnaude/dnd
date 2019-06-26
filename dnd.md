@@ -26,10 +26,10 @@ Modified Princes of the Apocalypse starting at level 8.
 
 ### PCs
 
--   Cranorin, the wood elf druid, but you can call him Crain (assumed dead)
--   Shava, the rogue ranger, quite fond of my coin, alchemy & apothecary (assumed dead)
--   Coldor, the high elf necromancer, with a flair for the dramatic (assumed dead)
--   Elliania, the half elf druid, quiet with an affinity for wolves (assumed dead)
+-   Cranorin, the wood elf druid, but you can call him Crain (presumed dead)
+-   Shava, the rogue ranger, quite fond of my coin, alchemy & apothecary (presumed dead)
+-   Coldor, the high elf necromancer, with a flair for the dramatic (presumed dead)
+-   Elliania, the half elf druid, quiet with an affinity for wolves (presumed dead)
 
 -   Thorin Graniteskull, dwarven fighter and keeper of grudges
 -   Peren Calabra, human bard & charismatic performer
@@ -273,7 +273,7 @@ their allies fighting each other, the Efreeti makes short work of the party. The
 ### Wed 19 June 2019
 
 <details>
-<summary> Seven session: Restart  </summary>
+<summary> Seventh session: Restart  </summary>
 
 #### 30th of Kythorn 1453
 
@@ -289,7 +289,22 @@ to investigate.
 
 After introductions, Peren convinces Moonpie to aid them in their escape. They manage to trick the cultists guardian
 their cells to enter the cell, in search of an illusory gold disc. Striking at the opportune moment, the prisoners
-manage to overpower the guards and make their escape into the cave system. Moonpie leads the party to section of the
-cave where she has found refuge...
+manage to overpower the guards and make their escape into the cave system. Moonpie leads the party to a section of the
+cave where she has found refuge. The party tries to sneak their way there an run into a pack of hell hounds. 
+An intense battle ensues. The hell hounds are defeated.
+
+</details>
+
+### Wed 26 June 2019
+
+<details>
+<summary> Eigth session: Restart pt. II </summary>
+
+The gang made their way to Moonpies cool hideout to rest. After their rest the party is attacked by a wandering group
+of Fire Snakes, who are out hunting for food.
+
+#### 30th of Kythorn 1453
+
+
 
 </details>

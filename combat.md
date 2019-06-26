@@ -367,3 +367,35 @@ Hell hounds in the prison escape 2800 XP
 10 Moonpie
 8 Hell hounds
 7 Yashera
+
+Fire snakes in the restart dungeon
+
+Fire snake
+1 AC 14, HP 22, 17, 0 *
+2 AC 14, HP 22, 14, 5, 2, 0
+3 AC 14, HP 22, 1, 0
+4 AC 14, HP 22, 4, 0
+5 AC 14, HP 22, 4, 0
+6 AC 14, HP 22, 16, 9, 0
+7 AC 14, HP 22, 4, 0
+8 AC 14, HP 22, 15, 1, 0
+9 AC 14, HP 22, 8, 1, 0
+
+
+24 Peren
+10 Moonpie
+6 Yoshi
+5 Thorin 
+
+4 Snakes
+
+Bastion in the restart dungeon
+AC 12 78, 50, 42, 28, 4 HP
+AC 13 102, 59, 52, 46, 34, 24  HP
+
+22 Bastion
+21 Peren 
+16 Moonpie
+13 Fire Elemental
+
+9 Thorin, Yoshi
