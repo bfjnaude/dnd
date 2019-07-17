@@ -298,13 +298,24 @@ An intense battle ensues. The hell hounds are defeated.
 ### Wed 26 June 2019
 
 <details>
-<summary> Eigth session: Restart pt. II </summary>
+<summary> Eigth session: Restart pt. II, portal run </summary>
 
+#### 30th of Kythorn 1453 
 The gang made their way to Moonpies cool hideout to rest. After their rest the party is attacked by a wandering group
-of Fire Snakes, who are out hunting for food.
+of Fire Snakes, who are out hunting for food. 
 
-#### 30th of Kythorn 1453
+After crushing the fire snakes, the party tries to make their escape. Moonpie convinces the others to follow
+her to a part of the cave system where she saw Bastion enter a portal. The group stealthily made their way to
+portal, where they encounter Bastion. Bastion tries to make an escape, but the party overpowers him as he opens the 
+portal. They make their way through the portal... 
 
+</details>
 
+### Wed 17 July 2019
+
+<details>
+<summary> Ninth session: Through the wormhole </summary> 
+
+#### 30th of Kythorn 1453 
 
 </details>

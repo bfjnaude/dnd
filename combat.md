@@ -399,3 +399,17 @@ AC 13 102, 59, 52, 46, 34, 24  HP
 13 Fire Elemental
 
 9 Thorin, Yoshi
+
+Ogre 
+AC 11 59, 45, 19, 0 HP 
+AC 11 59, 50, 26, 7, 0 HP 
+AC 11 59, 39, 0 HP 
+AC 11 59, 36, 19, 0 HP 
+AC 11 59, 36, 31, 12 HP 
+
+
+20 Peren 
+15 Moonpie, Thorin 
+13 Yashira 
+7 Wolves 
+0 Ogres
