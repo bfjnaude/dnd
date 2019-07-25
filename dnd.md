@@ -317,5 +317,34 @@ portal. They make their way through the portal...
 <summary> Ninth session: Through the wormhole </summary> 
 
 #### 30th of Kythorn 1453 
+The party runs away from many big monsters. A giant, a cult mob and a chimeara... Bastion is left as bait to distract
+chimeara. The group makes their way out of the fire dungeon and tackles a group of Ogres in the Earth Cult's quarter. 
+The dwarf, staying true to form was the instigator of said encounter.
+
+They decide to barricade themselves in and rest for the night.
+
+</details>
+
+### Wed 24 July 2019
+
+<details>
+<summary> Tenth session: It not ogre yet </summary> 
+
+#### 1st of Flamerule 1453 
+After hearing spooky noises the party decides to leave the ogre den to explore the stone dungeon...
+
+As soon as they exit the ogre den, the group encounters two bullettes fighting in the adjacent chamber. The bullettes 
+cause the chamber to start collapsing, so the party decides to make a run for it.
+
+Peren starts to recall the area and leads the group to an exit. Before they reach the exit, the party encounters an
+earth elemental and it's friends. Combat ensues. After dealing with the elementals Peren leads the way to the Stone
+Monastery via a tunnel network and a very tall staircase.
+
+Our adventurers find themselves in the basement dungeon under the monastery, which is infested by shambling troops of 
+zombies. They make use of the maze like nature of the dungeon to avoid the zombies and find their way to the monastery 
+proper. 
+
+Exiting the monastery the party sees daylight for the first time in a long while. They decide to leave and go looking 
+for the nearest town. 
 
 </details>

@@ -413,3 +413,14 @@ AC 11 59, 36, 31, 12 HP
 13 Yashira 
 7 Wolves 
 0 Ogres
+
+AC 17  126, 113, 93, 84, 81, 70, 57, 40, 35, 32, 24, 8, 0
+AC 17  126, 121, 117, 112, 88, 77, 71, 68, 32, 17, 0
+AC 17  126, 120, 101, 97, 78, 73, 66, 30
+
+22 Moonpie
+21 Thorin
+20 Peren 
+15 Wolves
+7 Yashira
+6 Stone elementals
