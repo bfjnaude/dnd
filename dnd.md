@@ -14,6 +14,10 @@ Modified Princes of the Apocalypse starting at level 8.
 <a href="./screen.html">Goto live screen<a>
 
 <details>
+    <summary>Sword Coast</summary>
+    <img class="lazy img-map" src="img/sword-coast_low.jpg" data-src="img/sword-coast.jpg"/>
+</details> 
+<details>
     <summary>Dessarin Valley</summary>
     <img class="lazy img-map" src="img/Dessarin_Valley-5e_low.jpg" data-src="img/Dessarin_Valley-5e.jpg"/>
 </details> 
