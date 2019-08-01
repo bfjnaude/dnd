@@ -197,7 +197,7 @@ During the fighting the Flame Guardian submits.
 ### Wed 9 May 2019
 
 <details>
-<summary> Second session: Scalet Moon Hall Tower</summary>
+<summary> Third session: Scalet Moon Hall Tower</summary>
 
 #### 3rd of Kythorn 1453
 
@@ -217,7 +217,7 @@ The party opts to take a short rest in the top of the tower.
 ### Wed 15 May 2019
 
 <details>
-<summary> Third session: Scalet Moon Hall Tower Pt.2, into the fire temple</summary>
+<summary> Fourth session: Scalet Moon Hall Tower Pt.2, into the fire temple</summary>
 
 #### 3rd of Kythorn 1453
 
@@ -240,7 +240,7 @@ A failed stealth attempt leads to a large battle with Vanifer and her fire Eleme
 ### Wed 22 May 2019
 
 <details>
-<summary> Fourth session: Inside Vanifers chamber</summary>
+<summary> Fifth session: Inside Vanifers chamber</summary>
 
 #### 3rd of Kythorn 1453
 
@@ -260,7 +260,7 @@ out, many people die... also hobgoblins. A mage, named Lizzy manages to escape.
 ### Wed 5 June 2019
 
 <details>
-<summary> Fifth session: Murderings things </summary>
+<summary> Sixth session: Murderings things </summary>
 
 #### 4th of Kythorn 1453
 
@@ -271,7 +271,7 @@ The party goes on a murdering spree, killing all they found in the Fire Temple
 ### Wed 12 June 2019
 
 <details>
-<summary> Sixth session: Murdering things part II, electric boogaloo  </summary>
+<summary> Seventh session: Murdering things part II, electric boogaloo  </summary>
 
 #### 4th of Kythorn 1453
 
@@ -291,7 +291,7 @@ their allies fighting each other, the Efreeti makes short work of the party. The
 ### Wed 19 June 2019
 
 <details>
-<summary> Seventh session: Restart  </summary>
+<summary> Eighth session: Restart  </summary>
 
 #### 30th of Kythorn 1453
 
@@ -316,7 +316,7 @@ An intense battle ensues. The hell hounds are defeated.
 ### Wed 26 June 2019
 
 <details>
-<summary> Eigth session: Restart pt. II, portal run </summary>
+<summary> Ninth session: Restart pt. II, portal run </summary>
 
 #### 30th of Kythorn 1453 
 The gang made their way to Moonpies cool hideout to rest. After their rest the party is attacked by a wandering group
@@ -332,7 +332,7 @@ portal. They make their way through the portal...
 ### Wed 17 July 2019
 
 <details>
-<summary> Ninth session: Through the wormhole </summary> 
+<summary> Tenth session: Through the wormhole </summary> 
 
 #### 30th of Kythorn 1453 
 The party runs away from many big monsters. A giant, a cult mob and a chimeara... Bastion is left as bait to distract
@@ -346,7 +346,7 @@ They decide to barricade themselves in and rest for the night.
 ### Wed 24 July 2019
 
 <details>
-<summary> Tenth session: It not ogre yet </summary> 
+<summary> Eleventh session: It's not ogre yet </summary> 
 
 #### 1st of Flamerule 1453 
 After hearing spooky noises the party decides to leave the ogre den to explore the stone dungeon...
@@ -365,13 +365,12 @@ proper.
 Exiting the monastery the party sees daylight for the first time in a long while. They decide to leave and go looking 
 for the nearest town. 
 
-</details>
-
+</details> 
 
 ### Wed 31 July 2019
 
 <details>
-<summary> Eleventh session: Giants & revelations </summary> 
+<summary> Twelfth session: Giants & revelations </summary> 
 
 #### 1st of Flamerule 1453 
 After a bit of a detour the adventuring band find a trail heading NW to SE. They decide to set up camp a couple of
