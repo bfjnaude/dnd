@@ -296,7 +296,7 @@ their allies fighting each other, the Efreeti makes short work of the party. The
 #### 30th of Kythorn 1453
 
 Thorin and Peren find themselves in a cell, inside a stiflingly hot cave, after an unfavorable encounter involving some
-cultist, and a stray fireball bead for a certain gnome warlock.
+cultist, and a stray fireball bead from a certain gnome warlock.
 
 A newcomer, Yasheira, is dragged into their cell by some flame cultist henchmen. After acquaintances are made, it
 becomes clear that an escape has to be made if they plan to survive.
