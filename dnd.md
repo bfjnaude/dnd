@@ -21,6 +21,10 @@ Modified Princes of the Apocalypse starting at level 8.
     <summary>Scarlet Moon Hall</summary>
     <img class="lazy img-map" src="img/scarlet-moon-hall-dm_low.jpg" data-src="img/scarlet-moon-hall-dm.jpg"/>
 </details>
+<details>
+    <summary>Red Larch</summary>
+    <img class="lazy img-map" src="img/red-larch_low.jpg" data-src="img/red-larch.jpg"/>
+</details>
 
 ## Characters
 
