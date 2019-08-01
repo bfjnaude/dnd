@@ -50,7 +50,25 @@ the party about strange happenings in the valley.
 <summary>Bastion</summary>
 
 Fire genasi in the Fire Cult's dungeon. Has some ambition to depose Vanifer. Asked the party to kill Vanifer and bring
-him their dagger for a hefty sum.
+him their dagger for a hefty sum. After Vanifer's death, he finds himself in a awkward position where he is fighting
+an Efreeti for control of the fire cult. He enlists the help of a Fire Giant by promising him Tinderstrike as reward
+for helping to dispose of the Efreeti.
+
+His plans are cut short when he crosses paths with a group of adventurers who kidnap and kill him. After dying he comes
+back as a wraith, out for vengeance, but ultimately fails in this quest. 
+
+</details>
+
+<details>
+<summary>Amon the Mighty</summary>
+
+(Amon the Mighty, Enslaver of the lesser races, Master Trader, Magic Smith, Blessed of Imix)
+
+An Efreeti with a sadistic streak. A slaver of Azers and Salamanders who uses his slaves to manufacture rare items.
+Amon establishes himself in a forge on the material plane, in the ruins of Tyar-Basil. This place has a strong connection
+to the elemental plane of fire. He encounters a cult of fire worshippers and sees an opportunity to attain more power.
+
+The cult has an artifact of Imix. Amon must have it.  
 
 </details>
 
@@ -350,11 +368,13 @@ for the nearest town.
 </details>
 
 
+### Wed 31 July 2019
+
 <details>
 <summary> Eleventh session: Giants & revelations </summary> 
 
 #### 1st of Flamerule 1453 
-After a a bit of a detour the adventuring band find a trail heading NW to SE. They decide to set up camp a couple of
+After a bit of a detour the adventuring band find a trail heading NW to SE. They decide to set up camp a couple of
 minutes off the trail and rest for the night.
 
 The watch schedule is decided after dark an the group begin to rest. Their rest is interrupted by a wraith, that nearly
