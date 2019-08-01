@@ -424,3 +424,35 @@ AC 17  126, 120, 101, 97, 78, 73, 66, 30
 15 Wolves
 7 Yashira
 6 Stone elementals
+
+Wraith
+
+AC 13 HP 67, 64, 52, 41, 30, 17, 4, 0 
+
+17 Wraith
+15 Thorin 
+14 Moonpie 
+12 Yashira
+11 Peren 
+
+Vultures and knights
+
+AC 10 HP 11  AC 16 HP 33, 19
+AC 10 HP 22  AC 16 HP 33, 2, 0
+AC 10 HP 22  AC 16 HP 33, 2, 0
+
+21 Moonpie
+18 Peren, Yashira 
+15 Knights, Thorin
+
+
+Giant 
+
+AC 18 HP 162, 150, 147, 135, 108, 86, 71, 66, 61, 20, 0
+
+18 Thorin 
+17 Moonpie
+15 Peren
+12 Giant, Yashi
+
+

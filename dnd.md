@@ -348,3 +348,53 @@ Exiting the monastery the party sees daylight for the first time in a long while
 for the nearest town. 
 
 </details>
+
+
+<details>
+<summary> Eleventh session: Giants & revelations </summary> 
+
+#### 1st of Flamerule 1453 
+After a a bit of a detour the adventuring band find a trail heading NW to SE. They decide to set up camp a couple of
+minutes off the trail and rest for the night.
+
+The watch schedule is decided after dark an the group begin to rest. Their rest is interrupted by a wraith, that nearly
+drains the monk of all her life's essense, before she can alert the rest of the party. The wraith however seems more 
+focused on the bard and allows the monk to narrowly escape. Something about his dagger...
+
+The party kills the wraith, of whom they assume is Bastion. Rest is resumed.
+
+#### 2nd of Flamerule 1453 
+The party decides to follow the trail NW in the direction, of what they assume is, Red Larch. 
+
+During the day, they spot large vultures in the distance. The bard recalls their encounters with the Feathergale Knights
+and decides to rather head in the direction of Feathergale Spire, barely visible in the distance, to ask for aid.
+
+On their way to the spire, the party is attacked by three vulture-mounted riders. After dealing with the riders and their
+mounts, it finally starts to sink in that the Feathergale Knights weren't the gracious hosts they had first assumed.
+The party finds that the knights' clothing is covered in symbols of the Cult of Howling Hatred. Following this revelation,
+the group starts heads back to the trail, to get to Red Larch.
+
+Getting to Red Larch takes the rest of the day's light. The party arrives in the ruins of Red Larch, exhausted and relieved.
+The town has been deserted after the devastating attacks by the elemental cults left the ground cracked and many of the
+buildings torn open. The party make their way to the main road and start looting the Swinging Sword Inn. The bard and 
+the dwarf promptly start looting the bar and singing songs. Meanwhile the druid and monk decided to use the inn's 
+remaining supplies to make a stew in a large couldron hanging in the inn's hearth.
+
+After the merry making and supper, the group decide to hold up in one of the inn's larger rooms, on the second
+floor, for the night.
+
+#### 3rd of Flamerule 1453 
+Getting an early start, the party starts to loot the rest of the towns ruins for supplies. They equip themselves with
+any clothes and adventuring gear they are able to find in workshops and traders supplies which were abandoned during 
+the evacuation of Red Larch. 
+
+While they are busy looting, a fire giant enters the town. Yasheira is quick on the uptake and alerts the party of the
+giant's presence. The giant starts to search the town, ripping the roofs off houses and beckoning whomever is hiding
+to come out and give him Tinderstrike. He seems aware of the dagger's presence.
+
+The party stays in hiding and springs their ambush from inside a general trader's store. Using a combination of stuns, 
+confusion and summoned creatures the party is able to overwhelm the giant before he can deal any serious damage, with 
+the dwarf delivering the final blow.
+
+</details>
+
