@@ -248,7 +248,7 @@ A failed stealth attempt leads to a large battle with Vanifer and her fire Eleme
 ### Wed 22 May 2019
 
 <details>
-<summary> Fifth session: Inside Vanifers chamber</summary>
+<summary> Fifth session: Inside Vanifer's chamber</summary>
 
 #### 3rd of Kythorn 1453
 
@@ -424,4 +424,55 @@ confusion and summoned creatures the party is able to overwhelm the giant before
 the dwarf delivering the final blow.
 
 </details>
+
+### Wed 14 August 2019
+
+<details>
+<summary> Thirteenth session: It's getting hot in here </summary> 
+
+#### 3rd of Flamerule 1453 
+The gang decides to set off to the North, with plans to make their way to Neverwinter via the Triboar trail.
+
+Not long after starting the long trek across the Dessarin Valley, they spot large columns of smoke on the horizon.
+It soon becomes apparent that a wild fire is blazing across the Sumber Hills, travelling in their direction. The air
+starts to become acrid and the sky becomes dark and hazy as the wall of fire, stretching from West to East as far as
+they can see, approaches.
+
+The party decides to run back to Red Larch, to escape the approaching inferno. During their retreat they notice that
+a column of fire is approaching from the West. Not long after, they spot a fiery flying streak in to the East, followed
+by a trail of fire on the ground. Something is trying to burn down the valley.
+
+With some encouraging words from the bard, the group picks up the pace to attempt to avoid whatever is trying to trap
+them in the inferno.
+
+The encounter comes to a head, with the party narrowly escaping a strafing run by a red dragon, wreathed in flame. 
+
+Combat ensues, with Thorin launching crossbow bolts; Moonpie hurling magical beams of frost and lightning; Peren 
+dazzling and confusing the dragon with psychic song; and Yasheira delivering stunning, ki empowered, strikes. This young 
+red dragon seems to alternate between a physical and elemental form, rendering many of the party’s attacks ineffective.
+
+The dragon gets in a few devastating blows with its claws and nearly kills the druid with its fire breath, before being 
+slain. The final blow is delivered by Peren, wielding Tinderstrike. The dragon dies in a bright explosion, as the dagger 
+is plunged into its hide. The group is blinded, deafened and knocked backwards by the blast. Peren’s arm is left 
+scorched black and pulsing with fiery veins. All that remains of the dragon is a charred skeleton.
+
+After slaying the dragon the gang continues their retreat to Red Larch. They must devise another plan if they are to 
+escape the Dessarin Valley.
+
+They decide to, once again, take refuge in the Swinging Sword Inn. The druid and the monk turn in early, while the bard 
+and the dwarf decide to have a drink. 
+
+When they finally decide to call it a night, they feel a sudden drop in temperature. The dwarf decides to investigate. 
+As he attempts to look out the front door a shadow leaps out at him trying to pull him into the darkness. Thorin jumps 
+back, just in time. More shadows start to swarm the inn, snaking through the windows and gaps in the wall. They try to 
+swarm and overpower the dwarf.
+
+
+The rest of the party joins the battle and help fend off the shadows, with fire and radiant light, before they can leech 
+all life from Thorin.
+
+After another narrow brush with death, they decide to turn in for the night, while taking turns to keep watch. 
+
+</details>
+
 

@@ -456,3 +456,35 @@ AC 18 HP 162, 150, 147, 135, 108, 86, 71, 66, 61, 20, 0
 12 Giant, Yashi
 
 
+
+Fire elemental Dragon encounter
+
+AC 17 HP 178, 170, 163, 156, 155, 148, 145, 137, 122, 105, 94, 91, 75, 70, 65
+Immune to fire 
+Resistant to physical attacks
+
+21 Moonpie
+18 Peren
+16 Yasheira 
+15 Elemental Dragon, Mephits
+8 Thorin
+
+
+Shadows
+AC 12 HP 16, 8, 0
+AC 12 HP 16, 7, 4, 0
+AC 12 HP 16, 7, 0
+AC 12 HP 16, 7, 0
+
+AC 12 HP 16, 0
+AC 12 HP 16, 0
+AC 12 HP 16, 0
+AC 12 HP 16, 0
+
+18 Thorin
+15 Moonpie
+12 Shadow
+11 Yasheira
+7 Peren
+
+
