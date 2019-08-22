@@ -86,6 +86,8 @@ The cult has an artifact of Imix. Amon must have it.
 
 Weapon (spear), legendary (requires attunement)
 
+<img class="lazy img-magic-item" src="img/windvane_low.jpg" data-src="img/windvane.jpg"/> 
+
 A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the
 weapon feels insubstantial, as if clutching a cool, gently blowing breeze. The spear contains a spark of Yan-C-Bin, the
 Prince of Evil Air.
@@ -104,6 +106,10 @@ Air Mastery. You gain the following benefit while you hold Windvane:
 
 <details><summary>Tinderstrike</summary>
 
+Weapon (dagger) legendary (requires attunement)
+
+<img class="lazy img-magic-item" src="img/tinderstrike_low.jpg" data-src="img/tinderstrike.jpg"/> 
+
 A flint dagger, Tinderstrike is uncommonly sharp, and sparks cascade off its edge whenever it strikes something solid.
 Its handle is always warm to the touch, and the blade smolders for 1d4 minutes after it is used to deal damage. It
 contains a spark of Imix, Prince of Evil Fire.
@@ -111,25 +117,90 @@ contains a spark of Imix, Prince of Evil Fire.
 You gain a +2 bonus to attack and damage rolls you make with this magic weapon. When you hit with it, the targets takes
 an extra 2d6 fire damage.
 
-Fire Mastery. You gain the following benefits while you hold Tinderstrike:
+*Fire Mastery.* You gain the following benefits while you hold Tinderstrike:
 
 -   You can speak Ignan fluently.
 -   You have resistance to Fire damage.
 -   You can cast Dominate Monster (Save DC 17) on a Fire Elemental. Once you have done so, Tinderstrike can’t be used
-    this way again until the next dawn.
+    this way again until the next dawn. 
 
-This weapon is tied to one of the four Elemental Planes. While wielding this weapon, you have advantage on attack rolls
-against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have
-access to properties based on the linked plane.
+*Dance of the All-consuming Fire.* While inside a fire node, you can perform a ritual called the Dance of the 
+All-Consuming Fire, using Tinderstrike to create a devastation orb of fire (see the devastation orbe description for the
+time and cost of the ritual). Once you prefrom the ritual, Tinderstrike can't be used to perform the ritual again until
+the new dawn.
+*Flaw*. Tinderstrike makes its wielder impatient and rash. While attuned to the weapon, you gain the following flaw:
+"I act without thinking and take risks without weighing the consequences." 
 
 If you help slay a fire elemental while attuned to the weapon, you gain access to the following additional properties:
 
--   You are immune to fire damage.
 -   You can cast the following spells from the dagger, expending the necessary number of charges: burning hands (1
     charge), fireball (2 charges), or wall of fire (3 charges).
 
 After helping to slay a fire elemental, the Weapon has 5 charges. It regains 1d4 = 1 expended charges daily at dawn.
 Spells cast from the weapon have a save DC of 17.
+
+</details>
+
+<details><summary>Robe of Eyes</summary>
+
+Adventuring Gear (Wondrous Item, Robe) rare (requires attunement)
+
+<img class="lazy img-magic-item" src="img/robe-of-eyes_low.jpg" data-src="img/robe-of-eyes.jpg"/>
+
+This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
+
+- The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight. 
+- You have Darkvision out to a range of 120 feet. 
+- You can see Invisible creatures and Objects, as well as see into the Ethereal Plane, out to a range of 120 feet.
+
+The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered 
+to be doing so while wearing this robe.
+
+A light spell cast on the robe or a Daylight spell cast within 5 feet of the robe causes you to be Blinded for 1 minute. 
+At the end of each of your turns, you can make a Constitution saving throw (DC 11 for light or DC 15 for daylight), 
+ending the blindness on a success.
+
+</details>
+
+<details><summary>Cloak of the Bat</summary>
+
+Adventuring Gear (Wondrous Item, Shoulders) rare (requires attunement)
+
+<img class="lazy img-magic-item" src="img/cloak_of_the_bat_low.jpg" data-src="img/cloak_of_the_bat.jpg"/> 
+
+While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or Darkness, you can 
+grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the 
+cloak's edges while flying in this way, or if you are no longer in dim light or Darkness, you lose this flying speed.
+
+While wearing the cloak in an area of dim light or Darkness, you can use your action to cast Polymorph on yourself, 
+transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma 
+scores. The cloak can't be used this way again until the next dawn.
+
+</details>
+
+<details><summary>Ring of the Ram</summary>
+
+Ring (Ring) rare (requires attunement)
+
+<img class="lazy img-magic-item" src="img/ring-of-the-ram_low.jpg" data-src="img/ring-of-the-ram.jpg"/> 
+
+This ring has 3 Charges, and it regains 1d3 expended Charges daily at dawn. While wearing the ring, you can use an 
+action to expend 1 to 3 of its Charges to Attack one creature you can see within 60 feet of you. The ring produces a 
+spectral ram's head and makes its Attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 
+2d10 force damage and is pushed 5 feet away from you.
+
+Alternatively, you can expend 1 to 3 of the ring's Charges as an action to try to break an object you can see within 60 
+feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
+
+</details>
+
+<details><summary>Ring of Feather Falling</summary>
+
+Ring (Ring) rare (requires attunement)
+
+<img class="lazy img-magic-item" src="img/ring-of-feather-falling_low.jpg" data-src="img/ring-of-feather-falling.jpg"/> 
+
+When you fall while wearing this ring, you descend 60 feet per round and take no damage from Falling.
 
 </details>
 
@@ -465,14 +536,59 @@ and the dwarf decide to have a drink.
 When they finally decide to call it a night, they feel a sudden drop in temperature. The dwarf decides to investigate. 
 As he attempts to look out the front door a shadow leaps out at him trying to pull him into the darkness. Thorin jumps 
 back, just in time. More shadows start to swarm the inn, snaking through the windows and gaps in the wall. They try to 
-swarm and overpower the dwarf.
-
+swarm and overpower the dwarf. 
 
 The rest of the party joins the battle and help fend off the shadows, with fire and radiant light, before they can leech 
 all life from Thorin.
 
 After another narrow brush with death, they decide to turn in for the night, while taking turns to keep watch. 
 
+</details> 
+
+### Wed 21 August 2019
+
+<details>
+<summary> Fourteenth session: Looking for treasure</summary> 
+
+#### 4th of Flamerule 1453 
+
+After an argument about where to go next, the party decides to head down the Cairn road to backtrack to the Stone 
+Monastery. They want to get back to the fire temple to put a stop to the waves of enemies being sent after them.
+
+On their way down the Cairn Road, they spot a patrol coming from the opposite direction. An ambush is layed. The group 
+springs their trap on two Fire Elemental Myrmidons, sent to patrol the road to Red Larch.
+
+After killing the first elemental, Peren uses Tinderstrike to dominate the second elemental. He extracts information
+about the surrounding area and the location of the entrace to the fire temple, before banishing the elemental back to 
+its home plane.
+
+The group camps out for night, off the road.
+
+#### 5th of Flamerule 1453 
+Using intel gleaned from the dominated fire elemental, the party heads off to find the entrace to the fire temple,
+located at Scarlet Moon Hall. 
+
+On their way the party spots a large black beast flying through the cloud to the North-West. A great, big, black
+dragon is making its way across the valley. It either doesn't spot the party or it pays them no mind as flies far 
+overhead.
+
+After a few hours of trekking across the Dessarin Valley grassland and into the Sumber Hills, the party finds a burnt 
+out tower on the top of a hill. A single sentry patrols up and down the main path leading to the Scarlet Moon Hall.
+They dazzle and dispatch of the fire elemental sentry with ease. 
+
+The group makes their way into the bombed out ruins, where they discover a tunnel leading underground. They descend into
+darkness and arrive at one of the entrances of the Temple of the Eternal Flame. 
+
+On their approach to Scarlet Moon Hall, Yasheira starts hearing the eerie laughter she last heard when escaping from
+the underground compound. Using the laughter as a guide the party makes their way to Bastion's private quaters, via a 
+secret door in one of the temple tunnels.
+
+The group finds a strange wardrobe, with no door, in Bastion's chambers. Upon revealing the Bastion's key, the facade of 
+the wardrobe turns into a face matching that on the key. Yasheira places the key into its mouth. The key disappears as 
+a crease forms down the middle of the wardrobe. Yarsheira opens the wardrobe. Inside, there is a thick velvet curtain.
+Yasheira starts rummaging around behind the curtain and pulls out a robe, a cloak and two rings.
+
+A red robe covered in eyes; a black cloak with a bat embroidered on the collar; a ring with two ram's heads on the 
+front; A ring in the shape of a feather. 
+
 </details>
-
-

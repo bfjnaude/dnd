@@ -487,4 +487,14 @@ AC 12 HP 16, 0
 11 Yasheira
 7 Peren
 
+Fire Elemental Myrmidon Patrol Encounter
+AC 18 117, 112, 109, 96, 80, 78, 68, 50, 44, 41, 29, 13 HP
+AC 18 117, HP
+
+24 Peren
+17 Thorin, Moonpie
+11 Elemental, Yasheira
+
+Fire Elemental Myrmidon Patrol Encounter
+AC 18 117, 111, 94, 61, 53, 34, 15 HP
 
