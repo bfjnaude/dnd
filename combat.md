@@ -498,3 +498,39 @@ AC 18 117, HP
 Fire Elemental Myrmidon Patrol Encounter
 AC 18 117, 111, 94, 61, 53, 34, 15 HP
 
+AC 15 HP 45, 9, 0
+AC 15 HP 45, 29, 10, 16
+AC 15 HP 45, 29, 13, 0
+AC 15 HP 45, 29, 10, 20, 0
+
+21 Hell hounds
+16 Thorin
+11 Moonpie
+7 Peren, Yasheira
+
+W1 p 142
+
+Puzzle 2000 XP
+
+Fire giant 5000 XP
+AC 18 HP 162, 155, 130, 104, 80, 54, 29, 20, 8, 2, 0
+Flamewrath 2300 XP
+AC 12 HP 105, 84, 69, 46, 33, 12, 0
+Razerblast 1800 XP
+AC 17 HP 112, 93, 56, 44, 39, 30, 15, 0
+AC 17 HP 112, 85, 53, 34, 28, 23, 0
+Eternal Flame Priest 700 XP
+AC 12 HP 52, 22, 0
+
+20 Yasheira
+17 Fire giant
+13 Peren
+11 Thorin 
+6 Flamewrath XXX
+6 Razerblast2 XXX 
+5 Eternal flame priest XXX
+4 Moonpie
+1 Razerblast XXX
+
+
+

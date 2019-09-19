@@ -592,3 +592,43 @@ A red robe covered in eyes; a black cloak with a bat embroidered on the collar; 
 front; A ring in the shape of a feather. 
 
 </details>
+
+### Wed 11 September 2019
+
+<details>
+<summary> Fifthteenth session: </summary> 
+
+#### 5th of Flamerule 1453 
+The loot is divided and the party sets of, exploring the upper level of the fire dungeon. 
+
+The area seems abandoned. Rooms have been stripped down, with only things deemed too heavy to carry being left behind.  
+
+Further exploration of the dungeon complex reveals a few interesting landmarks: A large fiery butthole-shaped chasm, with
+a floating stone elevator; a cache of supplies, hidden behind a false wall; a room full of toxic mold; a very large pile
+of junk; a room full of gears, which controls the flow of lava in the forge area; and a room full of hellhounds, who nearly
+killed the bard.
+
+Moonpie steals a coin, from Thorin, to throw in the fiery lake. Perhaps some long-forgotten lava diety deems this a 
+sufficient sacrifice? 
+</details>
+
+<details>
+<summary> Sixteenth session: </summary> 
+
+The group decides to rest after their day of exploration.
+
+#### 6th of Flamerule 1453 
+Further exploration of the dungeon reveals nothing of interest.
+
+It seems that it is time to go down further into the temple complex. The butthole chasm seem to be the best course of action.
+The party makes their way to the elevator and try to figure out how to operate it.
+
+With Peren's newfound knowledge of the Ignan language and some runes on the elevator, the group figures out how to take
+the elevator down into the bowels of the complex.
+
+They go down. All the way down.
+
+The elevator arrives at a lake of magma, surrounded by tunnels. The Area is heavily guarded by cultists and fire giant.
+The party barely survives the encounter. Maybe they have gone too far...
+
+</details> 
