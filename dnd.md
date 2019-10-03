@@ -612,6 +612,8 @@ Moonpie steals a coin, from Thorin, to throw in the fiery lake. Perhaps some lon
 sufficient sacrifice? 
 </details>
 
+### Wed 18 September 2019
+
 <details>
 <summary> Sixteenth session: </summary> 
 
@@ -630,5 +632,36 @@ They go down. All the way down.
 
 The elevator arrives at a lake of magma, surrounded by tunnels. The Area is heavily guarded by cultists and fire giant.
 The party barely survives the encounter. Maybe they have gone too far...
+
+</details> 
+
+### Wed 27 September 2019
+<details>
+<summary> Seventeenth session: Spooky hammer</summary> 
+After their previous encounter in the bowels of the underground city, the party decides to double back, up the lift, to
+the upper levels of the complex.
+
+After regrouping and patching themselves up they decide to go down the lift; this time only one level. 
+
+The area starts to look familiar to Thorin and Peren. They have been here before...
+
+They had encountered many oddities on this level, including two hill giants playing tic-tac-toe; a collapsed mine; fire 
+breathing minotaurs; an ominous chamber containing a drow statue, sealed off by oily smoke etc. Unfortunately this was 
+some time ago, and they had forgotten most of what had transpired
+
+The group decides to start exploring the cavernous chambers. It doesn't take long for them to find trouble, in the form
+of the remaining fire cult minotaur. He never stood a chance.
+
+The party makes their way deeper into the tunnels, arriving at the collapsed mine. Still infested with ghosts. 
+After dispatching with the hostile spectres a dwarven apparition appears, pointing towards a pile of collapse stonework.
+
+Thorin starts digging through the rubble, revealing the haft of a large hammer. The name Hendrel is emblazoned on the 
+side. Thorin recognizes this as a dwarven thrower. 
+</details> 
+
+### Wed 2 October 2019
+<details>
+<summary> Eighteenth session: </summary> 
+
 
 </details> 

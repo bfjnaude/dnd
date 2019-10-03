@@ -532,5 +532,46 @@ AC 12 HP 52, 22, 0
 4 Moonpie
 1 Razerblast XXX
 
+Minotaur 1000 XP
 
+AC 16
+HP 76, 68, 54, 40, 0
 
+22 Yasheira
+18 Minotaur
+16 Peren
+13 Moonpie
+11 Thorin
+
+Specter
+1 AC 12 HP 22, 0
+2 AC 12 HP 22, 3, 0  
+3 AC 12 HP 22, 0
+4 AC 12 HP 22, 12, 9, 0
+5 AC 12 HP 22, 0
+6 AC 12 HP 22, 0
+7 AC 12 HP 22, 1, 0
+8 AC 12 HP 22, 9, 0
+
+21 Peren
+20 Specters
+19 Thorin 
+13 Yasheira
+12 Bears
+11 Moonpie
+
+Carion crawlers 450 XP 
+1AC 13 51, 20, 3, 0
+2AC 13 51, 34, 18, 0
+3AC 13 51, 39, 33, 11, 0 
+4AC 13 51, 33, 18, 1, 0
+5AC 13 51, 46, 25, 0
+6AC 13 51, 34, 18, 0
+7AC 13 51, 26, 7, 0
+
+21 Thorin
+19 Bears
+18 Peren
+11 Yasheira
+9 Carion crawlers
+8 Moonpie
