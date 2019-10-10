@@ -58,12 +58,12 @@ the party about strange happenings in the valley.
 <summary>Bastion</summary>
 
 Fire genasi in the Fire Cult's dungeon. Has some ambition to depose Vanifer. Asked the party to kill Vanifer and bring
-him their dagger for a hefty sum. After Vanifer's death, he finds himself in a awkward position where he is fighting
-an Efreeti for control of the fire cult. He enlists the help of a Fire Giant by promising him Tinderstrike as reward
-for helping to dispose of the Efreeti.
+him their dagger for a hefty sum. After Vanifer's death, he finds himself in a awkward position where he is fighting an
+Efreeti for control of the fire cult. He enlists the help of a Fire Giant by promising him Tinderstrike as reward for
+helping to dispose of the Efreeti.
 
 His plans are cut short when he crosses paths with a group of adventurers who kidnap and kill him. After dying he comes
-back as a wraith, out for vengeance, but ultimately fails in this quest. 
+back as a wraith, out for vengeance, but ultimately fails in this quest.
 
 </details>
 
@@ -72,11 +72,11 @@ back as a wraith, out for vengeance, but ultimately fails in this quest.
 
 (Amon the Mighty, Enslaver of the lesser races, Master Trader, Magic Smith, Blessed of Imix)
 
-An Efreeti with a sadistic streak. A slaver of Azers and Salamanders who uses his slaves to manufacture rare items.
-Amon establishes himself in a forge on the material plane, in the ruins of Tyar-Basil. This place has a strong connection
-to the elemental plane of fire. He encounters a cult of fire worshippers and sees an opportunity to attain more power.
+An Efreeti with a sadistic streak. A slaver of Azers and Salamanders who uses his slaves to manufacture rare items. Amon
+establishes himself in a forge on the material plane, in the ruins of Tyar-Basil. This place has a strong connection to
+the elemental plane of fire. He encounters a cult of fire worshippers and sees an opportunity to attain more power.
 
-The cult has an artifact of Imix. Amon must have it.  
+The cult has an artifact of Imix. Amon must have it.
 
 </details>
 
@@ -86,7 +86,7 @@ The cult has an artifact of Imix. Amon must have it.
 
 Weapon (spear), legendary (requires attunement)
 
-<img class="lazy img-magic-item" src="img/windvane_low.jpg" data-src="img/windvane.jpg"/> 
+<img class="lazy img-magic-item" src="img/windvane_low.jpg" data-src="img/windvane.jpg"/>
 
 A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the
 weapon feels insubstantial, as if clutching a cool, gently blowing breeze. The spear contains a spark of Yan-C-Bin, the
@@ -108,7 +108,7 @@ Air Mastery. You gain the following benefit while you hold Windvane:
 
 Weapon (dagger) legendary (requires attunement)
 
-<img class="lazy img-magic-item" src="img/tinderstrike_low.jpg" data-src="img/tinderstrike.jpg"/> 
+<img class="lazy img-magic-item" src="img/tinderstrike_low.jpg" data-src="img/tinderstrike.jpg"/>
 
 A flint dagger, Tinderstrike is uncommonly sharp, and sparks cascade off its edge whenever it strikes something solid.
 Its handle is always warm to the touch, and the blade smolders for 1d4 minutes after it is used to deal damage. It
@@ -117,19 +117,18 @@ contains a spark of Imix, Prince of Evil Fire.
 You gain a +2 bonus to attack and damage rolls you make with this magic weapon. When you hit with it, the targets takes
 an extra 2d6 fire damage.
 
-*Fire Mastery.* You gain the following benefits while you hold Tinderstrike:
+_Fire Mastery._ You gain the following benefits while you hold Tinderstrike:
 
 -   You can speak Ignan fluently.
 -   You have resistance to Fire damage.
 -   You can cast Dominate Monster (Save DC 17) on a Fire Elemental. Once you have done so, Tinderstrike can’t be used
-    this way again until the next dawn. 
+    this way again until the next dawn.
 
-*Dance of the All-consuming Fire.* While inside a fire node, you can perform a ritual called the Dance of the 
+_Dance of the All-consuming Fire._ While inside a fire node, you can perform a ritual called the Dance of the
 All-Consuming Fire, using Tinderstrike to create a devastation orb of fire (see the devastation orbe description for the
 time and cost of the ritual). Once you prefrom the ritual, Tinderstrike can't be used to perform the ritual again until
-the new dawn.
-*Flaw*. Tinderstrike makes its wielder impatient and rash. While attuned to the weapon, you gain the following flaw:
-"I act without thinking and take risks without weighing the consequences." 
+the new dawn. _Flaw_. Tinderstrike makes its wielder impatient and rash. While attuned to the weapon, you gain the
+following flaw: "I act without thinking and take risks without weighing the consequences."
 
 If you help slay a fire elemental while attuned to the weapon, you gain access to the following additional properties:
 
@@ -149,15 +148,15 @@ Adventuring Gear (Wondrous Item, Robe) rare (requires attunement)
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
-- The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight. 
-- You have Darkvision out to a range of 120 feet. 
-- You can see Invisible creatures and Objects, as well as see into the Ethereal Plane, out to a range of 120 feet.
+-   The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight.
+-   You have Darkvision out to a range of 120 feet.
+-   You can see Invisible creatures and Objects, as well as see into the Ethereal Plane, out to a range of 120 feet.
 
-The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered 
+The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered
 to be doing so while wearing this robe.
 
-A light spell cast on the robe or a Daylight spell cast within 5 feet of the robe causes you to be Blinded for 1 minute. 
-At the end of each of your turns, you can make a Constitution saving throw (DC 11 for light or DC 15 for daylight), 
+A light spell cast on the robe or a Daylight spell cast within 5 feet of the robe causes you to be Blinded for 1 minute.
+At the end of each of your turns, you can make a Constitution saving throw (DC 11 for light or DC 15 for daylight),
 ending the blindness on a success.
 
 </details>
@@ -166,14 +165,14 @@ ending the blindness on a success.
 
 Adventuring Gear (Wondrous Item, Shoulders) rare (requires attunement)
 
-<img class="lazy img-magic-item" src="img/cloak_of_the_bat_low.jpg" data-src="img/cloak_of_the_bat.jpg"/> 
+<img class="lazy img-magic-item" src="img/cloak_of_the_bat_low.jpg" data-src="img/cloak_of_the_bat.jpg"/>
 
-While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or Darkness, you can 
-grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the 
+While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or Darkness, you can
+grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the
 cloak's edges while flying in this way, or if you are no longer in dim light or Darkness, you lose this flying speed.
 
-While wearing the cloak in an area of dim light or Darkness, you can use your action to cast Polymorph on yourself, 
-transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma 
+While wearing the cloak in an area of dim light or Darkness, you can use your action to cast Polymorph on yourself,
+transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma
 scores. The cloak can't be used this way again until the next dawn.
 
 </details>
@@ -182,14 +181,14 @@ scores. The cloak can't be used this way again until the next dawn.
 
 Ring (Ring) rare (requires attunement)
 
-<img class="lazy img-magic-item" src="img/ring-of-the-ram_low.jpg" data-src="img/ring-of-the-ram.jpg"/> 
+<img class="lazy img-magic-item" src="img/ring-of-the-ram_low.jpg" data-src="img/ring-of-the-ram.jpg"/>
 
-This ring has 3 Charges, and it regains 1d3 expended Charges daily at dawn. While wearing the ring, you can use an 
-action to expend 1 to 3 of its Charges to Attack one creature you can see within 60 feet of you. The ring produces a 
-spectral ram's head and makes its Attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 
+This ring has 3 Charges, and it regains 1d3 expended Charges daily at dawn. While wearing the ring, you can use an
+action to expend 1 to 3 of its Charges to Attack one creature you can see within 60 feet of you. The ring produces a
+spectral ram's head and makes its Attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes
 2d10 force damage and is pushed 5 feet away from you.
 
-Alternatively, you can expend 1 to 3 of the ring's Charges as an action to try to break an object you can see within 60 
+Alternatively, you can expend 1 to 3 of the ring's Charges as an action to try to break an object you can see within 60
 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
 </details>
@@ -198,7 +197,7 @@ feet of you that isn't being worn or carried. The ring makes a Strength check wi
 
 Ring (Ring) rare (requires attunement)
 
-<img class="lazy img-magic-item" src="img/ring-of-feather-falling_low.jpg" data-src="img/ring-of-feather-falling.jpg"/> 
+<img class="lazy img-magic-item" src="img/ring-of-feather-falling_low.jpg" data-src="img/ring-of-feather-falling.jpg"/>
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from Falling.
 
@@ -387,8 +386,8 @@ to investigate.
 After introductions, Peren convinces Moonpie to aid them in their escape. They manage to trick the cultists guardian
 their cells to enter the cell, in search of an illusory gold disc. Striking at the opportune moment, the prisoners
 manage to overpower the guards and make their escape into the cave system. Moonpie leads the party to a section of the
-cave where she has found refuge. The party tries to sneak their way there an run into a pack of hell hounds. 
-An intense battle ensues. The hell hounds are defeated.
+cave where she has found refuge. The party tries to sneak their way there an run into a pack of hell hounds. An intense
+battle ensues. The hell hounds are defeated.
 
 </details>
 
@@ -397,25 +396,27 @@ An intense battle ensues. The hell hounds are defeated.
 <details>
 <summary> Ninth session: Restart pt. II, portal run </summary>
 
-#### 30th of Kythorn 1453 
-The gang made their way to Moonpies cool hideout to rest. After their rest the party is attacked by a wandering group
-of Fire Snakes, who are out hunting for food. 
+#### 30th of Kythorn 1453
 
-After crushing the fire snakes, the party tries to make their escape. Moonpie convinces the others to follow
-her to a part of the cave system where she saw Bastion enter a portal. The group stealthily made their way to
-portal, where they encounter Bastion. Bastion tries to make an escape, but the party overpowers him as he opens the 
-portal. They make their way through the portal... 
+The gang made their way to Moonpies cool hideout to rest. After their rest the party is attacked by a wandering group of
+Fire Snakes, who are out hunting for food.
+
+After crushing the fire snakes, the party tries to make their escape. Moonpie convinces the others to follow her to a
+part of the cave system where she saw Bastion enter a portal. The group stealthily made their way to portal, where they
+encounter Bastion. Bastion tries to make an escape, but the party overpowers him as he opens the portal. They make their
+way through the portal...
 
 </details>
 
 ### Wed 17 July 2019
 
 <details>
-<summary> Tenth session: Through the wormhole </summary> 
+<summary> Tenth session: Through the wormhole </summary>
 
-#### 30th of Kythorn 1453 
+#### 30th of Kythorn 1453
+
 The party runs away from many big monsters. A giant, a cult mob and a chimeara... Bastion is left as bait to distract
-chimeara. The group makes their way out of the fire dungeon and tackles a group of Ogres in the Earth Cult's quarter. 
+chimeara. The group makes their way out of the fire dungeon and tackles a group of Ogres in the Earth Cult's quarter.
 The dwarf, staying true to form was the instigator of said encounter.
 
 They decide to barricade themselves in and rest for the night.
@@ -425,73 +426,77 @@ They decide to barricade themselves in and rest for the night.
 ### Wed 24 July 2019
 
 <details>
-<summary> Eleventh session: It's not ogre yet </summary> 
+<summary> Eleventh session: It's not ogre yet </summary>
 
-#### 1st of Flamerule 1453 
+#### 1st of Flamerule 1453
+
 After hearing spooky noises the party decides to leave the ogre den to explore the stone dungeon...
 
-As soon as they exit the ogre den, the group encounters two bullettes fighting in the adjacent chamber. The bullettes 
+As soon as they exit the ogre den, the group encounters two bullettes fighting in the adjacent chamber. The bullettes
 cause the chamber to start collapsing, so the party decides to make a run for it.
 
 Peren starts to recall the area and leads the group to an exit. Before they reach the exit, the party encounters an
 earth elemental and it's friends. Combat ensues. After dealing with the elementals Peren leads the way to the Stone
 Monastery via a tunnel network and a very tall staircase.
 
-Our adventurers find themselves in the basement dungeon under the monastery, which is infested by shambling troops of 
-zombies. They make use of the maze like nature of the dungeon to avoid the zombies and find their way to the monastery 
-proper. 
+Our adventurers find themselves in the basement dungeon under the monastery, which is infested by shambling troops of
+zombies. They make use of the maze like nature of the dungeon to avoid the zombies and find their way to the monastery
+proper.
 
-Exiting the monastery the party sees daylight for the first time in a long while. They decide to leave and go looking 
-for the nearest town. 
+Exiting the monastery the party sees daylight for the first time in a long while. They decide to leave and go looking
+for the nearest town.
 
-</details> 
+</details>
 
 ### Wed 31 July 2019
 
 <details>
-<summary> Twelfth session: Giants & revelations </summary> 
+<summary> Twelfth session: Giants & revelations </summary>
 
-#### 1st of Flamerule 1453 
+#### 1st of Flamerule 1453
+
 After a bit of a detour the adventuring band find a trail heading NW to SE. They decide to set up camp a couple of
 minutes off the trail and rest for the night.
 
 The watch schedule is decided after dark an the group begin to rest. Their rest is interrupted by a wraith, that nearly
-drains the monk of all her life's essense, before she can alert the rest of the party. The wraith however seems more 
+drains the monk of all her life's essense, before she can alert the rest of the party. The wraith however seems more
 focused on the bard and allows the monk to narrowly escape. Something about his dagger...
 
 The party kills the wraith, of whom they assume is Bastion. Rest is resumed.
 
-#### 2nd of Flamerule 1453 
-The party decides to follow the trail NW in the direction, of what they assume is, Red Larch. 
+#### 2nd of Flamerule 1453
+
+The party decides to follow the trail NW in the direction, of what they assume is, Red Larch.
 
 During the day, they spot large vultures in the distance. The bard recalls their encounters with the Feathergale Knights
 and decides to rather head in the direction of Feathergale Spire, barely visible in the distance, to ask for aid.
 
-On their way to the spire, the party is attacked by three vulture-mounted riders. After dealing with the riders and their
-mounts, it finally starts to sink in that the Feathergale Knights weren't the gracious hosts they had first assumed.
-The party finds that the knights' clothing is covered in symbols of the Cult of Howling Hatred. Following this revelation,
-the group starts heads back to the trail, to get to Red Larch.
+On their way to the spire, the party is attacked by three vulture-mounted riders. After dealing with the riders and
+their mounts, it finally starts to sink in that the Feathergale Knights weren't the gracious hosts they had first
+assumed. The party finds that the knights' clothing is covered in symbols of the Cult of Howling Hatred. Following this
+revelation, the group starts heads back to the trail, to get to Red Larch.
 
-Getting to Red Larch takes the rest of the day's light. The party arrives in the ruins of Red Larch, exhausted and relieved.
-The town has been deserted after the devastating attacks by the elemental cults left the ground cracked and many of the
-buildings torn open. The party make their way to the main road and start looting the Swinging Sword Inn. The bard and 
-the dwarf promptly start looting the bar and singing songs. Meanwhile the druid and monk decided to use the inn's 
-remaining supplies to make a stew in a large couldron hanging in the inn's hearth.
+Getting to Red Larch takes the rest of the day's light. The party arrives in the ruins of Red Larch, exhausted and
+relieved. The town has been deserted after the devastating attacks by the elemental cults left the ground cracked and
+many of the buildings torn open. The party make their way to the main road and start looting the Swinging Sword Inn. The
+bard and the dwarf promptly start looting the bar and singing songs. Meanwhile the druid and monk decided to use the
+inn's remaining supplies to make a stew in a large couldron hanging in the inn's hearth.
 
-After the merry making and supper, the group decide to hold up in one of the inn's larger rooms, on the second
-floor, for the night.
+After the merry making and supper, the group decide to hold up in one of the inn's larger rooms, on the second floor,
+for the night.
 
-#### 3rd of Flamerule 1453 
+#### 3rd of Flamerule 1453
+
 Getting an early start, the party starts to loot the rest of the towns ruins for supplies. They equip themselves with
-any clothes and adventuring gear they are able to find in workshops and traders supplies which were abandoned during 
-the evacuation of Red Larch. 
+any clothes and adventuring gear they are able to find in workshops and traders supplies which were abandoned during the
+evacuation of Red Larch.
 
 While they are busy looting, a fire giant enters the town. Yasheira is quick on the uptake and alerts the party of the
-giant's presence. The giant starts to search the town, ripping the roofs off houses and beckoning whomever is hiding
-to come out and give him Tinderstrike. He seems aware of the dagger's presence.
+giant's presence. The giant starts to search the town, ripping the roofs off houses and beckoning whomever is hiding to
+come out and give him Tinderstrike. He seems aware of the dagger's presence.
 
-The party stays in hiding and springs their ambush from inside a general trader's store. Using a combination of stuns, 
-confusion and summoned creatures the party is able to overwhelm the giant before he can deal any serious damage, with 
+The party stays in hiding and springs their ambush from inside a general trader's store. Using a combination of stuns,
+confusion and summoned creatures the party is able to overwhelm the giant before he can deal any serious damage, with
 the dwarf delivering the final blow.
 
 </details>
@@ -499,131 +504,135 @@ the dwarf delivering the final blow.
 ### Wed 14 August 2019
 
 <details>
-<summary> Thirteenth session: It's getting hot in here </summary> 
+<summary> Thirteenth session: It's getting hot in here </summary>
 
-#### 3rd of Flamerule 1453 
+#### 3rd of Flamerule 1453
+
 The gang decides to set off to the North, with plans to make their way to Neverwinter via the Triboar trail.
 
-Not long after starting the long trek across the Dessarin Valley, they spot large columns of smoke on the horizon.
-It soon becomes apparent that a wild fire is blazing across the Sumber Hills, travelling in their direction. The air
-starts to become acrid and the sky becomes dark and hazy as the wall of fire, stretching from West to East as far as
-they can see, approaches.
+Not long after starting the long trek across the Dessarin Valley, they spot large columns of smoke on the horizon. It
+soon becomes apparent that a wild fire is blazing across the Sumber Hills, travelling in their direction. The air starts
+to become acrid and the sky becomes dark and hazy as the wall of fire, stretching from West to East as far as they can
+see, approaches.
 
-The party decides to run back to Red Larch, to escape the approaching inferno. During their retreat they notice that
-a column of fire is approaching from the West. Not long after, they spot a fiery flying streak in to the East, followed
-by a trail of fire on the ground. Something is trying to burn down the valley.
+The party decides to run back to Red Larch, to escape the approaching inferno. During their retreat they notice that a
+column of fire is approaching from the West. Not long after, they spot a fiery flying streak in to the East, followed by
+a trail of fire on the ground. Something is trying to burn down the valley.
 
 With some encouraging words from the bard, the group picks up the pace to attempt to avoid whatever is trying to trap
 them in the inferno.
 
-The encounter comes to a head, with the party narrowly escaping a strafing run by a red dragon, wreathed in flame. 
+The encounter comes to a head, with the party narrowly escaping a strafing run by a red dragon, wreathed in flame.
 
-Combat ensues, with Thorin launching crossbow bolts; Moonpie hurling magical beams of frost and lightning; Peren 
-dazzling and confusing the dragon with psychic song; and Yasheira delivering stunning, ki empowered, strikes. This young 
+Combat ensues, with Thorin launching crossbow bolts; Moonpie hurling magical beams of frost and lightning; Peren
+dazzling and confusing the dragon with psychic song; and Yasheira delivering stunning, ki empowered, strikes. This young
 red dragon seems to alternate between a physical and elemental form, rendering many of the party’s attacks ineffective.
 
-The dragon gets in a few devastating blows with its claws and nearly kills the druid with its fire breath, before being 
-slain. The final blow is delivered by Peren, wielding Tinderstrike. The dragon dies in a bright explosion, as the dagger 
-is plunged into its hide. The group is blinded, deafened and knocked backwards by the blast. Peren’s arm is left 
+The dragon gets in a few devastating blows with its claws and nearly kills the druid with its fire breath, before being
+slain. The final blow is delivered by Peren, wielding Tinderstrike. The dragon dies in a bright explosion, as the dagger
+is plunged into its hide. The group is blinded, deafened and knocked backwards by the blast. Peren’s arm is left
 scorched black and pulsing with fiery veins. All that remains of the dragon is a charred skeleton.
 
-After slaying the dragon the gang continues their retreat to Red Larch. They must devise another plan if they are to 
+After slaying the dragon the gang continues their retreat to Red Larch. They must devise another plan if they are to
 escape the Dessarin Valley.
 
-They decide to, once again, take refuge in the Swinging Sword Inn. The druid and the monk turn in early, while the bard 
-and the dwarf decide to have a drink. 
+They decide to, once again, take refuge in the Swinging Sword Inn. The druid and the monk turn in early, while the bard
+and the dwarf decide to have a drink.
 
-When they finally decide to call it a night, they feel a sudden drop in temperature. The dwarf decides to investigate. 
-As he attempts to look out the front door a shadow leaps out at him trying to pull him into the darkness. Thorin jumps 
-back, just in time. More shadows start to swarm the inn, snaking through the windows and gaps in the wall. They try to 
-swarm and overpower the dwarf. 
+When they finally decide to call it a night, they feel a sudden drop in temperature. The dwarf decides to investigate.
+As he attempts to look out the front door a shadow leaps out at him trying to pull him into the darkness. Thorin jumps
+back, just in time. More shadows start to swarm the inn, snaking through the windows and gaps in the wall. They try to
+swarm and overpower the dwarf.
 
-The rest of the party joins the battle and help fend off the shadows, with fire and radiant light, before they can leech 
+The rest of the party joins the battle and help fend off the shadows, with fire and radiant light, before they can leech
 all life from Thorin.
 
-After another narrow brush with death, they decide to turn in for the night, while taking turns to keep watch. 
+After another narrow brush with death, they decide to turn in for the night, while taking turns to keep watch.
 
-</details> 
+</details>
 
 ### Wed 21 August 2019
 
 <details>
-<summary> Fourteenth session: Looking for treasure</summary> 
+<summary> Fourteenth session: Looking for treasure</summary>
 
-#### 4th of Flamerule 1453 
+#### 4th of Flamerule 1453
 
-After an argument about where to go next, the party decides to head down the Cairn road to backtrack to the Stone 
+After an argument about where to go next, the party decides to head down the Cairn road to backtrack to the Stone
 Monastery. They want to get back to the fire temple to put a stop to the waves of enemies being sent after them.
 
-On their way down the Cairn Road, they spot a patrol coming from the opposite direction. An ambush is layed. The group 
+On their way down the Cairn Road, they spot a patrol coming from the opposite direction. An ambush is layed. The group
 springs their trap on two Fire Elemental Myrmidons, sent to patrol the road to Red Larch.
 
 After killing the first elemental, Peren uses Tinderstrike to dominate the second elemental. He extracts information
-about the surrounding area and the location of the entrace to the fire temple, before banishing the elemental back to 
+about the surrounding area and the location of the entrace to the fire temple, before banishing the elemental back to
 its home plane.
 
 The group camps out for night, off the road.
 
-#### 5th of Flamerule 1453 
+#### 5th of Flamerule 1453
+
 Using intel gleaned from the dominated fire elemental, the party heads off to find the entrace to the fire temple,
-located at Scarlet Moon Hall. 
+located at Scarlet Moon Hall.
 
-On their way the party spots a large black beast flying through the cloud to the North-West. A great, big, black
-dragon is making its way across the valley. It either doesn't spot the party or it pays them no mind as flies far 
-overhead.
+On their way the party spots a large black beast flying through the cloud to the North-West. A great, big, black dragon
+is making its way across the valley. It either doesn't spot the party or it pays them no mind as flies far overhead.
 
-After a few hours of trekking across the Dessarin Valley grassland and into the Sumber Hills, the party finds a burnt 
-out tower on the top of a hill. A single sentry patrols up and down the main path leading to the Scarlet Moon Hall.
-They dazzle and dispatch of the fire elemental sentry with ease. 
+After a few hours of trekking across the Dessarin Valley grassland and into the Sumber Hills, the party finds a burnt
+out tower on the top of a hill. A single sentry patrols up and down the main path leading to the Scarlet Moon Hall. They
+dazzle and dispatch of the fire elemental sentry with ease.
 
 The group makes their way into the bombed out ruins, where they discover a tunnel leading underground. They descend into
-darkness and arrive at one of the entrances of the Temple of the Eternal Flame. 
+darkness and arrive at one of the entrances of the Temple of the Eternal Flame.
 
-On their approach to Scarlet Moon Hall, Yasheira starts hearing the eerie laughter she last heard when escaping from
-the underground compound. Using the laughter as a guide the party makes their way to Bastion's private quaters, via a 
-secret door in one of the temple tunnels.
+On their approach to Scarlet Moon Hall, Yasheira starts hearing the eerie laughter she last heard when escaping from the
+underground compound. Using the laughter as a guide the party makes their way to Bastion's private quaters, via a secret
+door in one of the temple tunnels.
 
-The group finds a strange wardrobe, with no door, in Bastion's chambers. Upon revealing the Bastion's key, the facade of 
-the wardrobe turns into a face matching that on the key. Yasheira places the key into its mouth. The key disappears as 
-a crease forms down the middle of the wardrobe. Yarsheira opens the wardrobe. Inside, there is a thick velvet curtain.
+The group finds a strange wardrobe, with no door, in Bastion's chambers. Upon revealing the Bastion's key, the facade of
+the wardrobe turns into a face matching that on the key. Yasheira places the key into its mouth. The key disappears as a
+crease forms down the middle of the wardrobe. Yarsheira opens the wardrobe. Inside, there is a thick velvet curtain.
 Yasheira starts rummaging around behind the curtain and pulls out a robe, a cloak and two rings.
 
-A red robe covered in eyes; a black cloak with a bat embroidered on the collar; a ring with two ram's heads on the 
-front; A ring in the shape of a feather. 
+A red robe covered in eyes; a black cloak with a bat embroidered on the collar; a ring with two ram's heads on the
+front; A ring in the shape of a feather.
 
 </details>
 
 ### Wed 11 September 2019
 
 <details>
-<summary> Fifthteenth session: </summary> 
+<summary> Fifthteenth session: </summary>
 
-#### 5th of Flamerule 1453 
-The loot is divided and the party sets of, exploring the upper level of the fire dungeon. 
+#### 5th of Flamerule 1453
 
-The area seems abandoned. Rooms have been stripped down, with only things deemed too heavy to carry being left behind.  
+The loot is divided and the party sets of, exploring the upper level of the fire dungeon.
 
-Further exploration of the dungeon complex reveals a few interesting landmarks: A large fiery butthole-shaped chasm, with
-a floating stone elevator; a cache of supplies, hidden behind a false wall; a room full of toxic mold; a very large pile
-of junk; a room full of gears, which controls the flow of lava in the forge area; and a room full of hellhounds, who nearly
-killed the bard.
+The area seems abandoned. Rooms have been stripped down, with only things deemed too heavy to carry being left behind.
 
-Moonpie steals a coin, from Thorin, to throw in the fiery lake. Perhaps some long-forgotten lava diety deems this a 
-sufficient sacrifice? 
+Further exploration of the dungeon complex reveals a few interesting landmarks: A large fiery butthole-shaped chasm,
+with a floating stone elevator; a cache of supplies, hidden behind a false wall; a room full of toxic mold; a very large
+pile of junk; a room full of gears, which controls the flow of lava in the forge area; and a room full of hellhounds,
+who nearly killed the bard.
+
+Moonpie steals a coin, from Thorin, to throw in the fiery lake. Perhaps some long-forgotten lava diety deems this a
+sufficient sacrifice?
+
 </details>
 
 ### Wed 18 September 2019
 
 <details>
-<summary> Sixteenth session: </summary> 
+<summary> Sixteenth session: </summary>
 
 The group decides to rest after their day of exploration.
 
-#### 6th of Flamerule 1453 
+#### 6th of Flamerule 1453
+
 Further exploration of the dungeon reveals nothing of interest.
 
-It seems that it is time to go down further into the temple complex. The butthole chasm seem to be the best course of action.
-The party makes their way to the elevator and try to figure out how to operate it.
+It seems that it is time to go down further into the temple complex. The butthole chasm seem to be the best course of
+action. The party makes their way to the elevator and try to figure out how to operate it.
 
 With Peren's newfound knowledge of the Ignan language and some runes on the elevator, the group figures out how to take
 the elevator down into the bowels of the complex.
@@ -633,35 +642,58 @@ They go down. All the way down.
 The elevator arrives at a lake of magma, surrounded by tunnels. The Area is heavily guarded by cultists and fire giant.
 The party barely survives the encounter. Maybe they have gone too far...
 
-</details> 
+</details>
 
 ### Wed 27 September 2019
+
 <details>
-<summary> Seventeenth session: Spooky hammer</summary> 
+<summary> Seventeenth session: The Fane of the Eye; Spooky hammer</summary> 
 After their previous encounter in the bowels of the underground city, the party decides to double back, up the lift, to
 the upper levels of the complex.
 
-After regrouping and patching themselves up they decide to go down the lift; this time only one level. 
+After regrouping and patching themselves up they decide to go down the lift; this time only one level.
 
 The area starts to look familiar to Thorin and Peren. They have been here before...
 
-They had encountered many oddities on this level, including two hill giants playing tic-tac-toe; a collapsed mine; fire 
-breathing minotaurs; an ominous chamber containing a drow statue, sealed off by oily smoke etc. Unfortunately this was 
+They had encountered many oddities on this level, including two hill giants playing tic-tac-toe; a collapsed mine; fire
+breathing minotaurs; an ominous chamber containing a drow statue, sealed off by oily smoke etc. Unfortunately this was
 some time ago, and they had forgotten most of what had transpired
 
 The group decides to start exploring the cavernous chambers. It doesn't take long for them to find trouble, in the form
 of the remaining fire cult minotaur. He never stood a chance.
 
-The party makes their way deeper into the tunnels, arriving at the collapsed mine. Still infested with ghosts. 
-After dispatching with the hostile spectres a dwarven apparition appears, pointing towards a pile of collapse stonework.
+The party makes their way deeper into the tunnels, arriving at the collapsed mine. Still infested with ghosts. After
+dispatching with the hostile spectres a dwarven apparition appears, pointing towards a pile of collapse stonework.
 
-Thorin starts digging through the rubble, revealing the haft of a large hammer. The name Hendrel is emblazoned on the 
-side. Thorin recognizes this as a dwarven thrower. 
-</details> 
+Thorin starts digging through the rubble, revealing the haft of a large hammer. The name Hendrel is emblazoned on the
+side. Thorin recognizes this as a dwarven thrower.
+
+</details>
 
 ### Wed 2 October 2019
+
 <details>
-<summary> Eighteenth session: </summary> 
+<summary> Eighteenth session: The Fane of the Eye Part II</summary> 
+The squad of merry <s>fucks</s> adventurers start clearing out the dungeon, room by room. With each area, Thorin and 
+Peren start to recognise more of the cavernous chambers. They wander into a room where they previously encountered
+two hill giants, finding only two giant skeletons. Upon further investigation of the skeletons it is revealed that the 
+room is infested with gigantic carrion crawlers, as they start falling from the ceiling.
 
+\<Insert epic combat description here \>
 
-</details> 
+After dealing with the carrion crawlers, the party makes their way to an adjacent chamber, segregated by magical fog
+barriers and with a creepily hunched over statue at it's centre. The hulking mass has a large gem for an eye. 
+
+Moonpie wants to take the gem. The rest of the party is however able to dissuade her, as they are convinced it is
+some kind of trap.
+
+Short rest...
+
+</details>
+
+### Wed 9 October 2019
+
+<details>
+<summary> Nineteenth session: </summary>
+
+</details>

@@ -575,3 +575,13 @@ Carion crawlers 450 XP
 11 Yasheira
 9 Carion crawlers
 8 Moonpie
+
+Minotaurs (1500 XP)
+14 AC 76, 62, 57, 48, 42, 34, 24, 11, 0 HP
+14 AC 76, 69, 38, 10, 0 HP
+
+25 Peren
+19 Moonpie
+15 Yasheira
+12 Thorin
+10 Minotaur
