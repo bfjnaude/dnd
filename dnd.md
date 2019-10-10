@@ -55,6 +55,14 @@ the party about strange happenings in the valley.
 </details>
 
 <details>
+<summary>Darreth</summary>
+
+Commoner from Womford. Captured by the elemental cults for one of their sacrificial rituals. Has met many of the elemental
+priest.
+
+</details>
+
+<details>
 <summary>Bastion</summary>
 
 Fire genasi in the Fire Cult's dungeon. Has some ambition to depose Vanifer. Asked the party to kill Vanifer and bring
@@ -685,15 +693,30 @@ After dealing with the carrion crawlers, the party makes their way to an adjacen
 barriers and with a creepily hunched over statue at it's centre. The hulking mass has a large gem for an eye. 
 
 Moonpie wants to take the gem. The rest of the party is however able to dissuade her, as they are convinced it is
-some kind of trap.
-
-Short rest...
+some kind of trap. Instead of tempting fate, they make their way back to the dwarven tomb to rest.
 
 </details>
 
 ### Wed 9 October 2019
 
 <details>
-<summary> Nineteenth session: </summary>
+<summary> Nineteenth session: The Fane of the Eye Part III</summary>
+
+Explorations continue. The gang makes their best effort to avoid danger as they map out the rest of this level of 
+the underground complex: 
+
+   - Large chamber filled with fungus and potentially toxic mushrooms? Nope. 
+   - Hang around in a room with what appears to be a demonic summoning circle? Nuh-uh.
+   - Open up a sarcophagus covered in demonic friezes and elemental symbols? Hell naw. 
+   - Destroy a sacrificial alter dedicated to some elemental evil? Nein.
+   - Destroy the drow statue with a large crystal eye? That's going to have be a no from me, dawg.
+
+During their explorations the party rescue a local commoner, Darreth. He is from the town of Womford. He was captured by
+cultists during a nightime raid on his hometown. The group rescues him by interrupting a sacrificial ritual. Gar, the 
+leader of the water cultists decides to abandon the ritual when the group arrives. He is well aware of the danger
+that they pose; seeing that more than one of the cult leaders has already fallen to them in battle.
+
+The party decides to escort Darreth out of the dungeon complex. Leading him back up through the stone temple, to the 
+Sacred Stone Monastery. He isn't quick to trust the party, but is willing to take any help he can get.
 
 </details>
