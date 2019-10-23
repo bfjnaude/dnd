@@ -720,3 +720,18 @@ The party decides to escort Darreth out of the dungeon complex. Leading him back
 Sacred Stone Monastery. He isn't quick to trust the party, but is willing to take any help he can get.
 
 </details>
+
+### Wed 23 October 2019
+
+<details>
+<summary> Twentieth session: The Black Geode pt I</summary>
+
+Party goes down E13 to G1
+
+Large battle at the entrace of the geode G1
+
+Xorn and stonemelder also join
+
+party explores further past G2 to G6
+
+</details>

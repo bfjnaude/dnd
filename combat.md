@@ -585,3 +585,32 @@ Minotaurs (1500 XP)
 15 Yasheira
 12 Thorin
 10 Minotaur
+
+G1 p 135
+
+Black earth guard 450 XP
+AC 17 HP 45, 38, 30, 8, 0
+AC 17 HP 45, 15, 0
+
+Earth elemental 1800 XP
+AC 17 HP 126, 123, 113, 91, 42, 25, 15, 0
+AC 17 HP 126, 99, 59, 36, 23, 8, 0
+
+Stone melder 1100 XP
+AC 17 HP 75, 58, 42, 28, 6, 0
+
+Xorn 1800 XP
+AC 19 HP 73, 67, 38, 8, 0
+
+900 + 3600 + 1100 + 3600
+
+9200 XP
+
+Peren 22
+Black earth guard 19
+Xorn 15
+Earth elementals 14
+Yasheira 13
+Moonpie 11
+Thorin 10
+Keltar 2
