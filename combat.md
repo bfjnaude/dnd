@@ -614,3 +614,55 @@ Yasheira 13
 Moonpie 11
 Thorin 10
 Keltar 2
+
+Ghaleb Duhrs (2x2300)
+AC 16 HP 85, 72, 67, 60
+AC 16 HP 85, 59, 41, 19, 14, 7, 0
+AC 16 HP 85, 59, 34, 21, 15, 10, 7, 4, 0
+
+AC 16 HP 85, 60, 55, 52, 34, 6, 0
+AC 16 HP 85, 60
+AC 16 HP 85
+
+5600 XP
+4600 XP
+
+Hook horrors (8x700)
+AC 15 HP 70
+AC 15 HP 70
+
+AC 15 HP 70
+AC 15 HP 70
+
+AC 15 HP 70
+AC 15 HP 70
+
+AC 15 HP 70
+AC 15 HP 70 
+
+20 Thorin
+19 Moonpie, Peren
+
+10 Ghaleb Dhurs
+9 Hook horrors
+4 Yasheira
+
+
+Black Earth Guard 900 XP
+AC 18 HP 39, 29, 11, 0 
+AC 18 HP 39, 28, 17, 2, 0 
+
+Stonemelder 1100 XP
+AC 17 HP 75, 60, 52, 45, 32
+
+Burrowshark 1100 XP
+AC 18 HP 82, 68, 56, 30, 7, 0
+
+20 Peren 
+15 Black Earth Guard, Burrowshark 
+12 Thorin 
+10 Yasheira 
+8 Moonpie 
+6 Stonemelder
+
+3100 XP

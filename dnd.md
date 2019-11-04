@@ -734,4 +734,11 @@ Xorn and stonemelder also join
 
 party explores further past G2 to G6
 
-</details>
+</details> 
+
+### Wed 30 October 2019
+
+<details>
+<summary> Twentyfirst session: The Black Geode pt II</summary>
+
+</details> 
